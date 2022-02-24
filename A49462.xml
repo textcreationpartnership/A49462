@@ -1,0 +1,613 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>The interest of the spirit in prayer. By H. Lukin</title>
+            <author>Lukin, H. (Henry), 1628-1719.</author>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1674</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 73 KB of XML-encoded text transcribed from 66 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2011-04">2011-04 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A49462</idno>
+            <idno type="STC">Wing L3475</idno>
+            <idno type="STC">ESTC R222700</idno>
+            <idno type="EEBO-CITATION">99833843</idno>
+            <idno type="PROQUEST">99833843</idno>
+            <idno type="VID">38321</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A49462)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 38321)</note>
+            <note>Images scanned from microfilm: (Early English books, 1641-1700 ; 2212:12)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>The interest of the spirit in prayer. By H. Lukin</title>
+                  <author>Lukin, H. (Henry), 1628-1719.</author>
+               </titleStmt>
+               <extent>[12], 116, [2] p.   </extent>
+               <publicationStmt>
+                  <publisher>printed by J.D. for Brabazon Aylmer, at the three Pigeons in Cornhil,</publisher>
+                  <pubPlace>London :</pubPlace>
+                  <date>1674.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>With errata and advertisement page.</note>
+                  <note>Reproduction of the original in the Bodleian Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Prayer --  Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2009-12</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2009-12</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2010-03</date>
+            <label>Kayla Ondracek</label>Sampled and proofread</change>
+         <change>
+            <date>2010-03</date>
+            <label>Kayla Ondracek</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2010-04</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:38321:1"/>
+            <pb facs="tcp:38321:1" rendition="simple:additions"/>
+            <p>THE INTEREST OF THE SPIRIT IN Prayer.</p>
+            <p>By <hi>H. Lukin.</hi>
+            </p>
+            <p>
+               <hi>LONDON,</hi> Printed by <hi>J. D.</hi> for <hi>Braba<g ref="char:EOLhyphen"/>zon Aylmer,</hi> at the three Pigeons in <hi>Cornhil,</hi> 1674.</p>
+         </div>
+         <div type="to_the_reader">
+            <pb facs="tcp:38321:2"/>
+            <pb facs="tcp:38321:2"/>
+            <opener>
+               <salute>READER,</salute>
+            </opener>
+            <p>THe following Diſ<g ref="char:EOLhyphen"/>courſe was a Ser<g ref="char:EOLhyphen"/>mon preacht ſome years ſince, and one that heard it, deſiring a Copy of it, I did at length yeeld to his importunity, and ſent it him, as now you ſee it, with the addition of theſe few Latin Quota<g ref="char:EOLhyphen"/>tions, which I do not uſe to interrupt the attenti<g ref="char:EOLhyphen"/>on of ordinary hearers
+<pb facs="tcp:38321:3"/>with in popular Diſcour<g ref="char:EOLhyphen"/>ſes; and this I did, not purpoſing to make it thus publick, but having once tranſcribed it, I conſent<g ref="char:EOLhyphen"/>ed further to the deſire of ſome to have it printed, but never had opportuni<g ref="char:EOLhyphen"/>ty to review what I had written from the first time that I ſent it till I ſaw it from the Preſs. This I thought meet to advertiſe you of, that you may not expect much ac<g ref="char:EOLhyphen"/>curateneſs (though you knew not the Authour be<g ref="char:EOLhyphen"/>fore) nor a clear and full diſcuſſion of ſuch things, as a diſcourſe of this na<g ref="char:EOLhyphen"/>ture
+<pb facs="tcp:38321:3"/>would allow, only ſome brief touches of it. I hope none will complain of a bold preſſing of Scrip<g ref="char:EOLhyphen"/>ture to ſerve an <hi>Hypo<g ref="char:EOLhyphen"/>theſis,</hi> of propenſion to any party, of a ſlaviſh ſubjection to the Authori<g ref="char:EOLhyphen"/>ty of great Names, of a Sceptical or Magisterial cenſuring of other Men of their Opinions; I have endeavoured to ſhew that candour, freedom, impar<g ref="char:EOLhyphen"/>tiality, moderation, that I may not be afraid of, or aſhamed to own it as a Man, a Scholar, a Chri<g ref="char:EOLhyphen"/>ſtian, a Minister, either when it is expoſed to the
+<pb facs="tcp:38321:4"/>cenſure of others, or at that day when every mans work ſhall be made manifeſt. I have, for the finding out of the truth herein, attended to two things, <hi>Scripture</hi> and <hi>Experience;</hi> both of which we ſhould have a due regard to in our ſearch after Truth. As in Phy<g ref="char:EOLhyphen"/>ſick, through practice and Experience be a great ad<g ref="char:EOLhyphen"/>vantage to Men, and make things more clear, as Examples do Rules: yet if Men truſt wholly thereto, the <hi>Emperical</hi> Phyſician may be deceived aſſoon as the <hi>Rational</hi> or
+<pb facs="tcp:38321:4"/>
+               <hi>Methodical:</hi> becauſe there being ſo many things that effects depend upon, or may proceed from, it is very eaſie to miſtake that for the cauſe of a thing, which is not the cauſe of it; and though they ſee the effects, they know not what concurs thereto, or what hath the chief in<g ref="char:EOLhyphen"/>flux into them: and I have oft obſerved and le<g ref="char:EOLhyphen"/>mented Mens being im<g ref="char:EOLhyphen"/>poſed upon by this fallacy of <hi>non cauſa pro cauſa,</hi> or taking that for the cauſe of a thing which is not, eſpecially in matters of Religion. Beſides, Men
+<pb facs="tcp:38321:5"/>are apt to infer general concluſions from particu<g ref="char:EOLhyphen"/>lar experiments, and ſo either meaſure themſelves by others, or make their own experience a ſtand<g ref="char:EOLhyphen"/>ard for the tryal of others. So on the other hand, ma<g ref="char:EOLhyphen"/>ny times Men attain not the true ſenſe of Scrip<g ref="char:EOLhyphen"/>ture, while thay conſi<g ref="char:EOLhyphen"/>der things only in the <hi>Idea</hi> or notion, without examining how things are really in particular Sub<g ref="char:EOLhyphen"/>jects. I know we muſt not make Man the meaſure of all things as <hi>Protago<g ref="char:EOLhyphen"/>ras</hi> in another ſenſe. Men must be tryed by Scrip<g ref="char:EOLhyphen"/>ture,
+<pb facs="tcp:38321:5"/>not the Scripture by Men. Yet we muſt ac<g ref="char:EOLhyphen"/>knowledge the Scripture ſpeaks ſometimes accor<g ref="char:EOLhyphen"/>ding to what really is: or, it ſpeaks as things are <hi>ſometimes</hi> found to be, not according to what is conſtantly or univerſally true. Wherefore I have endeavoured to find out what the Scripture, ac<g ref="char:EOLhyphen"/>cording to its ordinary ſtile and manner of ſpeak<g ref="char:EOLhyphen"/>ing may intend in ſuch places as I have had occa<g ref="char:EOLhyphen"/>ſion to inquire into: and have likewiſe obſerved and examined what is the ordinary experience of ſo<g ref="char:EOLhyphen"/>ber
+<pb facs="tcp:38321:6"/>ſerious Chriſtians, who dare not boaſt of ſuch things as they have not really found in them<g ref="char:EOLhyphen"/>ſelves, but have that ex<g ref="char:EOLhyphen"/>perience of God's Gra<g ref="char:EOLhyphen"/>cious working in them which they would not want for the whole world; and which doth eſtabliſh them more firmly in the belief of Spiritual things than to be ſhaken by ſuch <gap reason="foreign">
+                  <desc>〈 in non-Latin alphabet 〉</desc>
+               </gap>, or vain-ſpiri<g ref="char:EOLhyphen"/>ted perſons, as are not likely to be acquainted with ſuch matters, or to be competent Judges of them. There are ſome <hi>Erratas</hi> in the Printing,
+<pb facs="tcp:38321:6"/>for thoſe who are in the few words of <hi>Hebrew, Greek</hi> and <hi>Latin,</hi> as the Learned only can take notice of them, ſo they know how to correct them. There are ſome ſmall faults in pointing, and omiſſions of a letter in ſome places which any or<g ref="char:EOLhyphen"/>dinary Reader may know how to rectifie.</p>
+            <p>The more conſiderable you may correct thus:</p>
+         </div>
+         <div type="errata">
+            <pb facs="tcp:38321:7"/>
+            <head>ERRATA.</head>
+            <p>Pag. 35. l. 13, r. <hi>as he knows.</hi> P. 39 l. 3. r. <hi>riches of his Mer<g ref="char:EOLhyphen"/>cy.</hi> P. 48. l. 19 r. <hi>deſultorians.</hi> P. 55. marg. r. <hi>Gen.</hi> 45.26. P. 59. l. 17. r. <hi>do confidently.</hi> P. 61. l. 4. r. <hi>the Philoſopher ſpeaks.</hi> P. 73. l. 17. r. <hi>ingenu<g ref="char:EOLhyphen"/>ouſly.</hi> P. 75. l. 4. r. <hi>deſired.</hi> P. 83 l. 12. r. <hi>to aſſiſt.</hi> P. 100. l. 6 r. <hi>in Prayer.</hi>
+            </p>
+         </div>
+      </front>
+      <body>
+         <div type="text">
+            <pb n="1" facs="tcp:38321:7"/>
+            <head>The Intereſt of the Spi<g ref="char:EOLhyphen"/>rit in Prayer.</head>
+            <epigraph>
+               <q>
+                  <bibl>
+                     <hi>Rom. 8.26.</hi>
+                  </bibl>
+                  <p>Likewiſe the Spirit alſo helpeth our Infirmities: For we know not what we ſhould pray for as we ought, but the Spirit it ſelf maketh Inter<g ref="char:EOLhyphen"/>ceſſion for us with Groanings which cannot be uttered.</p>
+               </q>
+            </epigraph>
+            <p>THere are two Things which are the chief Trouble of <hi>Chriſtians</hi> in this world; <hi>inward Corruptions, or
+<pb n="2" facs="tcp:38321:8"/>the Remainders of Sin;</hi> and <hi>outward Afflictions, or Tribulations.</hi> Againſt both theſe doth the A<g ref="char:EOLhyphen"/>poſtle comfort and en<g ref="char:EOLhyphen"/>courage them in this Chapter, and in theſe words eſpecially, where<g ref="char:EOLhyphen"/>in he ſhews how the ho<g ref="char:EOLhyphen"/>ly-Ghoſt, whom our bleſſed Saviour had pro<g ref="char:EOLhyphen"/>miſed as a Comforter to his People, doth per<g ref="char:EOLhyphen"/>form this Office, parti<g ref="char:EOLhyphen"/>cularly, by aſſiſting us in our Prayers.</p>
+            <p>For the better under<g ref="char:EOLhyphen"/>ſtanding of the Words, we may obſerve, that by <hi>Infirmities,</hi> in Scrip<g ref="char:EOLhyphen"/>ture,
+<pb n="3" facs="tcp:38321:8"/>are underſtood ei<g ref="char:EOLhyphen"/>ther Afflictions, which we call <hi>natural Infirmi<g ref="char:EOLhyphen"/>ties,</hi> or ſinful Defects, or Imperfections, which we call <hi>Moral</hi> or <hi>Spiritual Infirmities.</hi> It is likely the Apoſtle underſtands the former, where he ſaith,
+<note place="margin">2 Cor. 12.10.</note> he <hi>takes Pleaſure in Infirmities.</hi> It can hardly be conceived how he ſhould take pleaſure in moral Infir<g ref="char:EOLhyphen"/>mities, and without que<g ref="char:EOLhyphen"/>ſtion he underſtands outward Afflictions, where he ſaith <hi>Chriſt was compaſſed about with Infirmities,</hi>
+               <note place="margin">Heb. 5.2.</note> for he was
+<pb n="4" facs="tcp:38321:9"/>free from all ſinful De<g ref="char:EOLhyphen"/>fects;
+<note place="margin">1 Pet. <gap reason="illegible" resp="#UOM" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>2<g ref="char:punc">▪</g> 22.</note> 
+               <hi>He did no ſin, neither was Guile found in his Mouth.</hi> Now if the Apoſtle ſhould here ſpeak of theſe natural Infirmities, it is certain the Spirit helps us a<g ref="char:EOLhyphen"/>gainſt them, by aſſiſting us in our Prayers; Pray<g ref="char:EOLhyphen"/>er being an excellent Remedy againſt afflicti<g ref="char:EOLhyphen"/>ons. Wherefore <hi>Da<g ref="char:EOLhyphen"/>vid,</hi> when he was in a great Strait,
+<note place="margin">
+                  <hi>Pſal.</hi> 109.4.</note> reſolves to give himſelf to Pray<g ref="char:EOLhyphen"/>er: Which Words have much exerciſed Cri<g ref="char:EOLhyphen"/>ticks. But I think our Engliſh Tranſlation
+<pb n="5" facs="tcp:38321:9"/>hath fully expreſſed the Senſe of them; and Prayer is a Remedy a<g ref="char:EOLhyphen"/>gainſt Affliction.</p>
+            <p n="1">1. As thereby we eaſe our Minds by pouring out our Hearts to God.
+<note place="margin">
+                  <hi>Pſal.</hi> 62.8.</note> So the Pſalmiſt expreſſes the Nature of Prayer. It is an Eaſe to us in Trou<g ref="char:EOLhyphen"/>ble to pour out our Complaints into the Boſom of a Friend,
+<note place="margin">
+                  <hi>Job.</hi> 32.20.</note> and we refreſh our ſelves by giving vent to our paſ<g ref="char:EOLhyphen"/>ſion, if it be a Friend that will conſider our Condition, and pity us in it: ſo by Prayer we open our Cauſe to God,
+<pb n="6" facs="tcp:38321:10"/>or reveal our Cauſe to him;
+<note place="margin">
+                  <hi>Jer.</hi> 11 20. Cap. 20.12.</note> as <hi>Jeremiah</hi> ex<g ref="char:EOLhyphen"/>preſſes it:
+<note place="margin">Iſa. 63.9.</note> 
+               <hi>He is afflicted in all our Afflictions, and pities us therein,
+<note place="margin">Pſal. 103.13.</note> as a Father pities his Chil<g ref="char:EOLhyphen"/>dren.</hi>
+            </p>
+            <p n="2">2. Prayer is a Re<g ref="char:EOLhyphen"/>medy againſt Affli<g ref="char:EOLhyphen"/>ctions,
+<note place="margin">
+                  <hi>Pſal.</hi> 138.3.</note> as thereby we obtain ſupport and Comfort under them, or Deliverance from them. And I may ſay as much of Prayer,
+<note place="margin">Heb. 11.3. &amp;c.</note> as the Apo<g ref="char:EOLhyphen"/>ſtle doth of Faith,
+<note place="margin">Jam. 5.16.</note> 
+               <hi>the effectual fervent Prayer of a righteous Man avails much:</hi> It turned the Heart of <hi>Eſau;</hi>
+               <note place="margin">
+                  <hi>Gen.</hi> 32.11.</note> it put
+<pb n="7" facs="tcp:38321:10"/>to Flight the <hi>Amale<g ref="char:EOLhyphen"/>kites;</hi>
+               <note place="margin">
+                  <hi>Ex.</hi> 17.11.</note>
+               <note place="margin">
+                  <hi>Numb.</hi> 14.17.</note> It held God's Hand;
+<note place="margin">
+                  <hi>Exod.</hi> 23.11.</note> It turned away his wrath;
+<note place="margin">
+                  <hi>Joſhua</hi> 10.12.13.</note> It ſtay'd the Sun in the Firmament; It opened Heaven,
+<note place="margin">
+                  <hi>Jam.</hi> 5.17.18.</note> and ſhut it again; Yea time would fail me to tell of <hi>David, Aſa, Jehoſha<g ref="char:EOLhyphen"/>phat, Hezehiah, Eſther;</hi> The Prayer made by the Church for <hi>Peter,</hi> which open'd the Priſon-doors; The <hi>thundering Legion</hi> in the Time of <hi>Aure<g ref="char:EOLhyphen"/>lius,</hi> which were ſo pre<g ref="char:EOLhyphen"/>valent for the Empe<g ref="char:EOLhyphen"/>rour againſt his Ene<g ref="char:EOLhyphen"/>mies, when he was in a great Strait, that he
+<pb n="8" facs="tcp:38321:11"/>thereupon wrote to the Senate to forbear the Perſecution of them, of which, amongſt others, we may read <hi>Tertullians Apology, Cap.</hi> 5. and <hi>Eu<g ref="char:EOLhyphen"/>ſebius, Lib.</hi> 5. <hi>Cap.</hi> 5. And the Reaſon of this Efficacy of Prayer is, becauſe they are his Children that pray to him, their Prayers are indited by the Holy-Ghoſt, and preſented by Jeſus Chriſt.</p>
+            <p n="3">3. Though God do not alwayes anſwer the Deſires of his People in Prayer, yet he many Times quiets their
+<pb n="9" facs="tcp:38321:11"/>Hearts ſo as they go a<g ref="char:EOLhyphen"/>way ſatisfied, as one that hath left the Ma<g ref="char:EOLhyphen"/>nagement of his Affairs in the hands of a Friend, who he knows is both faithful and able to look after them: As <hi>Hannah</hi> when ſhe had poured forth her Soul before the Lord,
+<note place="margin">1 <hi>Sam.</hi> 1.15.18.</note> went away, and her Counte<g ref="char:EOLhyphen"/>nance was no more ſad. And we find that often verified which <hi>Bernard</hi> ſaith of himſelf, <hi>Serm.</hi> 32. In <hi>Cant. Quoties me Oratio quem pene deſpe<g ref="char:EOLhyphen"/>rantem ſuſcepit reddidit exultantem et de Venià preſumentem?</hi> he went to
+<pb n="10" facs="tcp:38321:12"/>Prayer oftentimes even deſpairing, and retur<g ref="char:EOLhyphen"/>ned rejoycing and con<g ref="char:EOLhyphen"/>fident of Pardon. Thus we ſhall find <hi>David</hi> be<g ref="char:EOLhyphen"/>ginning his <hi>Pſalms</hi> ma<g ref="char:EOLhyphen"/>ny times, with mournful complaints, which he ends with Thankſgiving and Triumph; as parti<g ref="char:EOLhyphen"/>cularly <hi>Pſal.</hi> 6. <hi>Pſal.</hi> 13. <hi>Pſal.</hi> 22. <hi>Pſal.</hi> 28. <hi>Pſal.</hi> 69. <hi>Pſal.</hi> 142.</p>
+            <p>But Secondly; here<g ref="char:EOLhyphen"/>by ſometimes are meant <hi>moral</hi> or <hi>Spiritual</hi> In<g ref="char:EOLhyphen"/>firmities;
+<note place="margin">
+                  <hi>Pſal.</hi> 10.</note> as the Pſal<g ref="char:EOLhyphen"/>miſt accounts it his In<g ref="char:EOLhyphen"/>firmity when he was ready to give up his Hopes; and to com<g ref="char:EOLhyphen"/>plain
+<pb n="11" facs="tcp:38321:12"/>of God as if he had <hi>forgot to be gracious.</hi> And theſe are the Infir<g ref="char:EOLhyphen"/>mities which the Apo<g ref="char:EOLhyphen"/>ſtle requires <hi>the ſtrong to bear with in the weak.</hi>
+               <note place="margin">Rom. 15.1.</note> Now here it ſeems to ſignifie thoſe ſpiritual Infirmities which we are ſubject to in our <hi>prayers,</hi> by what followes in the Text, and I ſhall make it more fully appear in mine enſuing diſcourſe.
+<note place="margin">Rom 8.35.</note> It is ſaid <hi>he makes Inter<g ref="char:EOLhyphen"/>ceſſion for us;</hi> Which is not to be underſtood as if he did mediate or in<g ref="char:EOLhyphen"/>tercede for us, as Chriſt doth, who doth alſo make Interceſſion for
+<pb n="12" facs="tcp:38321:13"/>us. Neither doth he in<g ref="char:EOLhyphen"/>tercede in us, uſing us only as Inſtruments to expreſs his Mind, as e<g ref="char:EOLhyphen"/>vil Spirits ſpeak by thoſe who are poſſeſſed by them; but what he doth is by way of Aſ<g ref="char:EOLhyphen"/>ſiſtance, <hi>lifting over a<g ref="char:EOLhyphen"/>gainſt us,</hi> as the Greek word is by many inter<g ref="char:EOLhyphen"/>preted, as he that lifts over againſt another to help him, when he is lifting at ſomething that is too heavy for him: And he is ſaid to <hi>intercede,</hi> becauſe he helps us therein, or cauſ<g ref="char:EOLhyphen"/>eth us to intercede: As
+<pb n="13" facs="tcp:38321:13"/>in one Place it is ſaid the <hi>Spirit of Adoption</hi> cryeth <hi>Abba Father;</hi>
+               <note place="margin">Gal. 4.6.</note> in another Place that <hi>We</hi> thereby cry, <hi>Abba,
+<note place="margin">Rom. 8.15.</note> Fa<g ref="char:EOLhyphen"/>ther.</hi>
+               <note place="margin">1 <hi>King.</hi> 8.13.</note> As Solomon is ſaid to build the Temple at <hi>Jeruſalem,</hi> becauſe he directed, encouraged, and furniſhed Materi<g ref="char:EOLhyphen"/>als for the Building of it. Both Chriſt, and the Ho<g ref="char:EOLhyphen"/>ly-Ghoſt are concerned in our Prayers.
+<note place="margin">Ephſ. 2.18.</note> It is by <hi>Jeſus Chriſt through one Spirit that we have Acceſs to the Fa<g ref="char:EOLhyphen"/>ther.</hi>
+               <note place="margin">1 Jo. 2.1. <hi>Jo.</hi> 14.16.26.</note> And the ſame Word tranſlated <hi>Advo<g ref="char:EOLhyphen"/>cate,</hi> when applyed to
+<pb n="14" facs="tcp:38321:14"/>Jeſus Chriſt, is likeways frequently applyed to the Holy Ghoſt. And as Advocates do not only plead for their Clients, but many times dictate to them what they ſhould ſay; So both Chriſt and the Spirit are as Advocates to us. And as <hi>Nathan</hi> did firſt ſuggeſt to <hi>Bathſheba</hi> what ſhe ſhould ſay,
+<note place="margin">1 King 1.12. &amp;c.</note> and then came in himſelf to confirm her Words, to ſecond them, further to urge them: So the Spirit doth firſt aſſiſt us in drawing up our Peti<g ref="char:EOLhyphen"/>tions, for which Cauſe
+<pb n="15" facs="tcp:38321:14"/>we are ſaid to pray in or by the Spirit or Holy Ghoſt.
+<note place="margin">
+                  <hi>Epheſ.</hi> 6.18. <hi>Jude</hi> 20.</note> And in this re<g ref="char:EOLhyphen"/>ſpect, as is generally ſuppoſed, he is called <hi>the Spirit of Supplicati<g ref="char:EOLhyphen"/>on.</hi>
+               <note place="margin">Zech. 12.10.</note> And when we have preſented our Petitions, then Chriſt doth by his Interceſſion further con<g ref="char:EOLhyphen"/>firm them, and plead with the Father on our Behalf. Now I ſhall ſhew particularly what are thoſe Infirmities which we are ſubject to in Prayer, and how the Spirit helps them: And the firſt Infirmity I ſhall ſpeak of, is that which
+<pb n="16" facs="tcp:38321:15"/>the Apoſtle here menti<g ref="char:EOLhyphen"/>ons in the Text, that is, <hi>Ignorance; we know not what we ſhould pray for as we ought.</hi> He ſaith not <gap reason="foreign">
+                  <desc>〈 in non-Latin alphabet 〉</desc>
+               </gap>, which might be un<g ref="char:EOLhyphen"/>derſtood of an Inability in General, as that <hi>they know not to do right,</hi> which is according to the ordinary manner of Expreſſion in ſeveral Languages, particular<g ref="char:EOLhyphen"/>ly the <hi>French,</hi> and <hi>I<g ref="char:EOLhyphen"/>talian;</hi> and our <hi>Engliſh</hi> Bibles do well expreſs that of the Evangeliſt, which hath puzled ma<g ref="char:EOLhyphen"/>ny Criticks, make it
+<pb n="17" facs="tcp:38321:15"/>as ſure as ye can:
+<note place="margin">
+                  <hi>Matt.</hi> 27.65.</note> But it is here, <gap reason="foreign">
+                  <desc>〈 in non-Latin alphabet 〉</desc>
+               </gap>, <hi>we know not what we ſhould pray for as we ought.</hi> And this may be under<g ref="char:EOLhyphen"/>ſtood two wayes, either of the Matter of our Prayers, that we know not, as we ſhould in<g ref="char:EOLhyphen"/>deed know, what to pray for: or of the man<g ref="char:EOLhyphen"/>ner of them, we know not what to pray for as we ſhould pray. It is certainly true of both; As will appear by what I have here to ſay.</p>
+            <p>Firſt; we know not what we ſhould pray for: we know not firſt
+<pb n="18" facs="tcp:38321:16"/>what we ſtand in need of; ſuch is the Lati<g ref="char:EOLhyphen"/>tude of the Commands of God,
+<note place="margin">
+                  <hi>Pſal.</hi> 119.96.</note> and conſequent<g ref="char:EOLhyphen"/>ly the extent of our Duty, that although we may know how to expreſs our Deſires in ſome — Comprehenſive Petitions, which accor<g ref="char:EOLhyphen"/>ding to a large Inter<g ref="char:EOLhyphen"/>pretation of them may reach to our ſeveral ne<g ref="char:EOLhyphen"/>ceſſities; Yet we can<g ref="char:EOLhyphen"/>not pray explicitely for thoſe ſeveral Mer<g ref="char:EOLhyphen"/>cies which we need. And again, ſo various are the Occurrences of our Lives, that we know
+<pb n="19" facs="tcp:38321:16"/>not what particular temporal Bleſſings to pray for. As God cau<g ref="char:EOLhyphen"/>ſed a Gourd to grow up for <hi>Jonah,</hi> which he la<g ref="char:EOLhyphen"/>boured not for: So, he prevents us with many Favours, which we can<g ref="char:EOLhyphen"/>not by our foreſight or forecaſt contribute any thing to. Now as it is in Learning, thoſe who have ſome Infight into it, may poſſibly, if they have Opportunity to furniſh themſelves with Books, provide ſuch as may ſerve to inform them in ſome general and common Learning;
+<pb n="20" facs="tcp:38321:17"/>But ſuch is the vaſt compaſs of Learning, as that a young Scholar would not know how to furniſh a Library, ſo as to have Books of all ſorts to ſerve himſelf of upon all Occaſions. Or, as in the Accom<g ref="char:EOLhyphen"/>modations of Life, an ordinary Perſon may eaſily know how to fur<g ref="char:EOLhyphen"/>niſh himſelf with neceſ<g ref="char:EOLhyphen"/>ſaries, or what may ſerve him to live in a mean or ſordid Manner: But there are many more things required to live neatly and handſomly, if a man be exact and
+<pb n="21" facs="tcp:38321:17"/>curious, which an ordina<g ref="char:EOLhyphen"/>ry Man would not think of. Now thus it is in Matters of <hi>Chriſtianity,</hi> if a man can ſatisfy him<g ref="char:EOLhyphen"/>ſelf to live <hi>at all Adven<g ref="char:EOLhyphen"/>tures with God</hi>
+               <note place="margin">Lev. 26.21.</note> (as the Expreſſion is in the mar<g ref="char:EOLhyphen"/>gent of our Bibles) a little will ſerve his turne;
+But if a Man will walk <hi>circumſpectly,</hi>
+               <note place="margin">Epheſ. 5.15.</note> or accuratly as a Chri<g ref="char:EOLhyphen"/>ſtian ought to walk, ta<g ref="char:EOLhyphen"/>king heed to his Ways, pondering the Paths of his Feet, taking heed to his Spirit, keeping his Mouth as with a Bridle, filling up every
+<pb n="22" facs="tcp:38321:18"/>Relation with the Du<g ref="char:EOLhyphen"/>ties belonging thereto, filling up every Duty with the Graces requi<g ref="char:EOLhyphen"/>red therein, exerciſing the Graces requiſite to every Condition; lov<g ref="char:EOLhyphen"/>ing Enemies, praying for thoſe that perſecute him and deſpitefully uſe him, denying himſelf, crucifying the fleſh with the Affections and Luſts, watching againſt Temp<g ref="char:EOLhyphen"/>tations, there is much required to ſuch Man<g ref="char:EOLhyphen"/>ner of Life, and we ſhall have many parti<g ref="char:EOLhyphen"/>cular Mercies to beg of God in Order thereto.</p>
+            <pb n="23" facs="tcp:38321:18"/>
+            <p>Secondly; We know not what is meet and convenient for us to ask; and ſo ſometimes, as the Sons of <hi>Zebedee,</hi>
+               <note place="margin">
+                  <hi>Matt.</hi> 20.22.</note> ask we know not what. No man knows what is good for him in this Life.
+<note place="margin">
+                  <hi>Eccleſ.</hi> 6.12.</note> And ſo we pray many Times for that which would be a Croſs or a Curſe to us, rather than a Comfort or Bleſ<g ref="char:EOLhyphen"/>ſing. What we pray for as Bread, would, if God ſhould grant it, prove as a Stone to us,
+<note place="margin">
+                  <hi>Matt.</hi> 7.9</note> rather break our teeth then refreſh or nouriſh us. Probably our Sa<g ref="char:EOLhyphen"/>viour
+<pb n="24" facs="tcp:38321:19"/>might in theſe Words refer to ſome proverbial Speeches a<g ref="char:EOLhyphen"/>mong the Jews: For there were Proverbs of like Import, or to the ſame Purpoſe, in other Nations, as the <hi>Lear<g ref="char:EOLhyphen"/>ned</hi> know: As in theſe things there was a near Reſemblance or Simili<g ref="char:EOLhyphen"/>tude, as to outward Shew: But the greateſt Difference as to their uſe and effect; So as a Child ſeeing ſome kind of Stone, as a Pumice<g ref="char:EOLhyphen"/>ſtone or ſome ſuch like, might deſire it, as Bread, to ſatisfie his Hunger;
+<pb n="25" facs="tcp:38321:19"/>yet his Father, knowing what it is, would not give it him, as knowing how unfit it would be to anſwer the Childs End. And the like may be ſaid of ſome Fiſhes, and Serpents; Yea of an Egge, and a Scorpion, if that be true which Naturaliſts report of them. The drift of our Saviours Diſcourſe is, that though Children are ſo ignorant as to de<g ref="char:EOLhyphen"/>ſire many things as good for them, which their Parents ſee not good to grant, as knowing them to be improper means
+<pb n="26" facs="tcp:38321:20"/>for the attainment of that end which the Chil<g ref="char:EOLhyphen"/>dren aim at, or pro<g ref="char:EOLhyphen"/>pound to themſelves; So we do many times in our Prayers fix on ſuch things as God ſees would not reach the end which we think to attain there<g ref="char:EOLhyphen"/>by: So that God does ſometimes deny us in mercy, as well as anſwer us in mercy: For Riches, Honour, Wiſdom, Lear<g ref="char:EOLhyphen"/>ning, Beauty, Wives, Children are great Bleſ<g ref="char:EOLhyphen"/>ſings, where God is plea<g ref="char:EOLhyphen"/>ſed to make them ſo; But if we peremtorily and abſolutely inſiſt up<g ref="char:EOLhyphen"/>on
+<pb n="27" facs="tcp:38321:20"/>them in our Pray<g ref="char:EOLhyphen"/>ers, as <hi>Abraham</hi> for a Child,
+<note place="margin">
+                  <hi>Gen.</hi> 15.2.</note> as if all that God could do for him were nothing, if he went childleſs; God can give us them alone without that comfort which we expect with them, and ſo we receive them, as he did a Ring (which he had loſt) with great Joy rewarding him that brought it, without tak<g ref="char:EOLhyphen"/>ing much notice of it; but upon further Obſer<g ref="char:EOLhyphen"/>vation, ſaw, that there was his Ring without the Diamond, ſo that it was not worth the re<g ref="char:EOLhyphen"/>ward
+<pb n="28" facs="tcp:38321:21"/>which he gave for finding of it: Outward good things, without that Bleſſing which ſhould make them com<g ref="char:EOLhyphen"/>forts to us, are not worth asking. Now the Spirit helps this Infirmity by giving us more Wiſ<g ref="char:EOLhyphen"/>dom and ſpiritual Un<g ref="char:EOLhyphen"/>derſtanding. And here I ſhall do theſe two Things.</p>
+            <p>Firſt, ſhew you that this Wiſdom and Un<g ref="char:EOLhyphen"/>derſtanding is from the the Spirit of God.</p>
+            <p>Secondly, ſhew you how much this condu<g ref="char:EOLhyphen"/>ces to help us in our
+<pb n="29" facs="tcp:38321:21"/>Prayers. For the for<g ref="char:EOLhyphen"/>mer it is evident from the Teſtimony of the Scripture. The Apoſtle praies for the Epheſi<g ref="char:EOLhyphen"/>ans,
+<note place="margin">Eph. 1.17</note> 
+               <hi>that God would give them the Spirit of Wiſ<g ref="char:EOLhyphen"/>dom and Revelation in the Knowledge of him.</hi> For the Philippians,
+<note place="margin">Phil. 1.9</note> 
+               <hi>that their Love might abound more and more in Know<g ref="char:EOLhyphen"/>ledge, and in all Judg<g ref="char:EOLhyphen"/>ment.</hi> For the Coloſſi<g ref="char:EOLhyphen"/>ans,
+<note place="margin">Col. 1.9.</note> 
+               <hi>that they might be filled with the Knowledge of God's Will in all Wiſ<g ref="char:EOLhyphen"/>dom and ſpiritual Under<g ref="char:EOLhyphen"/>ſtanding.</hi> All which doth imply that it is God
+<pb n="30" facs="tcp:38321:22"/>that giveth theſe; and that he doth it by his Spirit, is without que<g ref="char:EOLhyphen"/>ſtion,
+<note place="margin">1 <hi>Cor.</hi> 2.12.</note> it being thereby that we know the things freely given to us of God. It is he that takes of the things of Chriſt and ſhews them unto us,
+<note place="margin">
+                  <hi>Joh.</hi> 16.14.</note> and ſo is a Spirit of Wiſ<g ref="char:EOLhyphen"/>dom and Underſtanding, making Chriſtians in their Meaſure quick of Underſtanding in the Fear of the Lord.
+<note place="margin">
+                  <hi>Iſa.</hi> 11.2.3.</note> Now if we could not conceive of the man<g ref="char:EOLhyphen"/>ner of this Worke of the Spirit, yet we ſhould reſt in this Evi<g ref="char:EOLhyphen"/>dence,
+<pb n="31" facs="tcp:38321:22"/>that there is ſuch an effect of it: And we may further ſuppoſe that he gives us an ex<g ref="char:EOLhyphen"/>perimental Knowledge of Chriſtian Graces or Vertues, by Working them in us, that he brings the Heart unto Wiſdom, or cauſes us to apply our Hearts there<g ref="char:EOLhyphen"/>to, by awakening us to a ſerious ſenſe of the great importance of heavenly things; and that he doth open our eyes, or elevate our Underſtandings to underſtand the marvel<g ref="char:EOLhyphen"/>lous things of God's Law,
+<note place="margin">
+                  <hi>Pſal.</hi> 119.18.</note>
+               <note place="margin">
+                  <hi>Rev.</hi> 3.18.</note> and ſo is as eye<g ref="char:EOLhyphen"/>ſalve
+<pb n="32" facs="tcp:38321:23"/>to anoint our Eyes, that we may ſee. And if any ſhall yet ex<g ref="char:EOLhyphen"/>pect a more ſatisfactory account of this work of the Spirit, let them con<g ref="char:EOLhyphen"/>ſider how little it is that we underſtand of the nature of Light,
+<note place="margin">
+                  <hi>Eph.</hi> 5.13.</note> though it be that which makes all other Things mani<g ref="char:EOLhyphen"/>feſt; And though we all by experience know the Benefit thereof, and ſerve our felves of it.</p>
+            <p>Now in the next place I ſhall ſhew how this helps our Ignorance in Prayer: and, firſt, we hereby come to under<g ref="char:EOLhyphen"/>ſtand
+<pb n="33" facs="tcp:38321:23"/>more of the Com<g ref="char:EOLhyphen"/>paſs and Latitude of our Chriſtian Calling, and how far our Duty extends. Wherefore the Apoſtle, in the fore<g ref="char:EOLhyphen"/>mentioned places, pray<g ref="char:EOLhyphen"/>eth for this <hi>Knowledge, Judgment, Wiſdom, and ſpiritual Underſtanding,
+<note place="margin">Phil 1.1.</note> that they might be filled with the fruits of Righte<g ref="char:EOLhyphen"/>ouſneſs; and that they might walk worthy of the Lord unto all pleaſing,
+<note place="margin">Col. 1.10.</note> be<g ref="char:EOLhyphen"/>ing fruitful in every good Work.</hi> Hence it is that ſe<g ref="char:EOLhyphen"/>rious Chriſtians are ſo inlarged many times in their Prayers. Some men go to Markets or Fairs
+<pb n="34" facs="tcp:38321:24"/>only for company or out of Curioſity, to ſee and be ſeen, and ſuch are ſoon weary of be<g ref="char:EOLhyphen"/>ing there, and may come home as ſoon as they pleaſe: But thoſe that are men of much Buſi<g ref="char:EOLhyphen"/>neſs, and great Dea<g ref="char:EOLhyphen"/>ling, have many Occaſi<g ref="char:EOLhyphen"/>ons to take up their time, which cauſe them many times to ſtay late. Formal Chriſtians have little to do with God when they come to him only for Company, or Cuſtom; but a ſerious Chriſtian, that under<g ref="char:EOLhyphen"/>ſtands the Buſineſs of Chriſtianity, hath ſo
+<pb n="35" facs="tcp:38321:24"/>much to do when he comes to the Throne of Grace, and the Favour of God, to deſire to<g ref="char:EOLhyphen"/>wards him in ſo many particular Caſes, and on ſo many Occaſions, that he hardly knows how to get away; He hath ſuch Duties to per<g ref="char:EOLhyphen"/>form, which he wants Help in, to perform them as he knows he ought; ſuch Graces to be ſtrengthened, which are ready to dye; ſuch dif<g ref="char:EOLhyphen"/>ficulties to be directed in, ſuch Temptations to be ſtrengthened againſt.</p>
+            <p>Secondly; by this Wiſdom and Under<g ref="char:EOLhyphen"/>ſtanding,
+<pb n="36" facs="tcp:38321:25"/>we come to ap<g ref="char:EOLhyphen"/>prove the things that are more excellent,
+<note place="margin">
+                  <hi>Phil.</hi> 1.10.</note> to value things according to their real worth, and ſo not to inſiſt too pe<g ref="char:EOLhyphen"/>remptorily on temporal Mercies; As Chriſt ſub<g ref="char:EOLhyphen"/>mitted his natural De<g ref="char:EOLhyphen"/>ſires to the Will and Deſigne of his Father.
+<note place="margin">
+                  <hi>Matt.</hi> 26.39.</note> So that we do not too much urge Petitions for outward Bleſſings, but (as <hi>David</hi>)<note place="margin">
+                  <hi>Jo.</hi> 12.27.</note> look upon it as an Anſwer to our Prayers in Trouble or Affliction,
+if God ſtreng<g ref="char:EOLhyphen"/>then us with ſtrength in our Souls, and account
+<pb n="37" facs="tcp:38321:25"/>a ſanctifyed uſe of Af<g ref="char:EOLhyphen"/>fliction, ſo,
+<note place="margin">
+                  <hi>Pſal.</hi> 138.3. <hi>Heb.</hi> 12.11.</note> as thereby to be made Partakers of Gods Holineſs, as better than Deliverance from it. It is true, theſe acts of the Spirit upon the Soul, do but habitually qualifie it for Prayer; and many ſuppoſe there is yet a further actual Aſſiſtance of the Spirit in Prayer whereby he doth ſug<g ref="char:EOLhyphen"/>geſt our very Words to us.
+<note place="margin">1 <hi>Cor.</hi> 2.13.</note> Now to look a little more narrowly in<g ref="char:EOLhyphen"/>to this matter, we may obſerve, that God, who worketh all things ac<g ref="char:EOLhyphen"/>cording
+<pb n="38" facs="tcp:38321:26"/>to the Counſel of his own will,
+<note place="margin">
+                  <hi>Eph.</hi> 1.11.</note> is plea<g ref="char:EOLhyphen"/>ſed to work variouſly, as the nature of things doth require, or as may beſt ſerve his own wiſe and holy Ends. Our Salvation depends chief<g ref="char:EOLhyphen"/>ly upon his effectual heart-turning Grace; But yet he makes his Providence many times ſubſervient to this Grace: For we ſee he doth hereby uſually caſt men under ſuch means, and into ſuch Circum<g ref="char:EOLhyphen"/>ſtances, as may beſt ſerve his Grace: though when he would make
+<pb n="39" facs="tcp:38321:26"/>manifeſt the power of his Grace, and the rights of his Mercy, he will turn a man in his ful Career to Hell, as he did <hi>Paul.</hi> So he u<g ref="char:EOLhyphen"/>ſually makes Nature and other Means ſub<g ref="char:EOLhyphen"/>ſervient to his Power, and to the operations of his Spirit: Yet when he would give clearer Proof of his divine Pow<g ref="char:EOLhyphen"/>er, and when ſuch ſub<g ref="char:EOLhyphen"/>ſervient means fail, he ſhews that he hath no need of them. Of old he fed his people with Bread from Heaven, while they were in a
+<pb n="40" facs="tcp:38321:27"/>Wilderneſs, and could not be ſupplied with Bread in an ordinary Way: But when they came into the Land of <hi>Canaan,</hi> and had Op<g ref="char:EOLhyphen"/>portunity to eat of the Corn thereof,
+<note place="margin">
+                  <hi>Joſh.</hi> 5.12.</note> the Man<g ref="char:EOLhyphen"/>na ceaſed. So, when God gave a new Law by <hi>Moſes;</hi> for gaining the greater Credit there<g ref="char:EOLhyphen"/>to, he indued him with extraordinary Gifts, and inſpired him immediate<g ref="char:EOLhyphen"/>ly by his Spirit; And ſo he did other Pro<g ref="char:EOLhyphen"/>phets, when he would recover his Church from ſome notorious Defe<g ref="char:EOLhyphen"/>ction:
+<pb n="41" facs="tcp:38321:27"/>But ordinarily, we know, he ſerved himſelf of ſuch as had an Education, which fit<g ref="char:EOLhyphen"/>ted them for that work, which he imploied them them in; as will ap<g ref="char:EOLhyphen"/>peare to any that ſhall conſider that there were places of Education, which were called <hi>Schools of the Prophets:</hi> For it is evident from Scripture that there were certain Compa<g ref="char:EOLhyphen"/>nies of them which did abide together in ſome conſiderable Number, becauſe they were for<g ref="char:EOLhyphen"/>ced to go and build them
+<pb n="42" facs="tcp:38321:28"/>another Place: and they were called <hi>Sons of the Prophets,</hi>
+               <note place="margin">2 Kings 2.3. <hi>Cap.</hi> 4.38. <hi>Cap.</hi> 6.1, &amp;c.</note> becauſe they were inſtructed by ſome famous or eminent per<g ref="char:EOLhyphen"/>ſon whom they called <hi>Father:</hi> For there were Fathers by Inſtruction as well as by Generati<g ref="char:EOLhyphen"/>on.
+<note place="margin">Mat<gap reason="illegible" resp="#UOM" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>. 23.9.</note> It is further evi<g ref="char:EOLhyphen"/>dent that it was lookt upon as an unuſual thing for the Spirit of God to come upon any but ſuch as were thus trained up; becauſe it was lookt upon as ſuch a ſtrange thing that <hi>Saul</hi> ſhould propheſie;
+<note place="margin">1 <hi>Sam.</hi> 10.11. <hi>Cap.</hi> 19.24.</note> and by the Apology
+<pb n="43" facs="tcp:38321:28"/>of <hi>Amos,</hi>
+               <note place="margin">Amos 7.11. <hi>Zech.</hi> 13.5.</note> and the Con<g ref="char:EOLhyphen"/>feſſion of the falſe Pro<g ref="char:EOLhyphen"/>phet. Now to bring this nearer to our Pur<g ref="char:EOLhyphen"/>poſe: At the firſt preaching of the Goſ<g ref="char:EOLhyphen"/>pel God was pleaſed to confirm it by ſigns and Wonders,
+<note place="margin">
+                  <hi>Heb.</hi> 2.4.</note> and diverſe Miracles and Gifts of the Holy Ghoſt, for the gaining of more Credit thereto. And then there were Perſons to be ſent forth into ſe<g ref="char:EOLhyphen"/>veral Nations of the World, which could not ſpeak their Langua<g ref="char:EOLhyphen"/>ges, nor were inſtructed in many things which
+<pb n="44" facs="tcp:38321:29"/>might be uſeful to them in ſuch an Imployment; So God did ſupply that Defect by the extraor<g ref="char:EOLhyphen"/>dinary work of his own Spirit: But when the Goſpel was confirmed by theſe Gifts and Mi<g ref="char:EOLhyphen"/>racles, and was plant<g ref="char:EOLhyphen"/>ed in the ſeveral Nati<g ref="char:EOLhyphen"/>ons of the World, It hath pleaſed the Lord to make uſe of ordina<g ref="char:EOLhyphen"/>ry Means as he did of Old, to be ſubſervient to his Spirit in ſuch Miniſtrations as are for the Good of his Church; ſo that there is not ſuch a diſtinct
+<pb n="45" facs="tcp:38321:29"/>evident Aſſiſtance of the Spirit now in preach<g ref="char:EOLhyphen"/>ing and praying,
+<note place="margin">1 <hi>Cor.</hi> 14.15.</note> as was in the Primitive Church: Yet we may obſerve whom it hath pleaſed God to make uſe of, for the work of the Miniſtry,
+<note place="margin">
+                  <hi>Eph.</hi> 4.12.</note> for the perfecting of the Saints, for the edifying of the Body of Chriſt.</p>
+            <p>If any ſhall to what I have ſaid, object, <hi>That of old when any were acted by the Spirit of God (though there were Societies of Prophets) it came evidently upon them and there was ſuch a di<g ref="char:EOLhyphen"/>vine
+<pb n="46" facs="tcp:38321:30"/>Power upon them, as it did plainly appear they were not acted by their own Spirit, but by the Spirit of God.</hi>
+            </p>
+            <p>I anſwer; the Spi<g ref="char:EOLhyphen"/>rit of God did then act them according to that diſpenſation which they were then under, and agreeable to his manner of working upon the Prophets of old. And we may obſerve a ma<g ref="char:EOLhyphen"/>nifeſt Difference be<g ref="char:EOLhyphen"/>twixt the Work of the Spirit upon the Pro<g ref="char:EOLhyphen"/>phets under the Old Teſtament, and ſuch as were extraordinarily
+<pb n="47" facs="tcp:38321:30"/>gifted under the New: Thoſe had the Spirit coming upon them one<g ref="char:EOLhyphen"/>ly at certain times; as it is frequently ſaid, the Word of the Lord came to them at ſuch a time,
+<note place="margin">2 <hi>Kings</hi> 4.27.</note> or at ſuch a time they had ſuch a thing revealed to them; and it came upon them in ſuch a manner, that they were as men in a Rapture or extacy out of themſelves, ſo that they uſed ſtrange Ge<g ref="char:EOLhyphen"/>ſtures ſometimes;
+<note place="margin">1 <hi>Sam.</hi> 19.24.</note> and in their ſtile they ſpeak not after the manner of men, but paſs from
+<pb n="48" facs="tcp:38321:31"/>one thing to another, not obſerving any Me<g ref="char:EOLhyphen"/>thod or Connexion of things of the ſame Na<g ref="char:EOLhyphen"/>ture or Argument. But under the New Teſta<g ref="char:EOLhyphen"/>ment they had a more conſtant habitual Aſ<g ref="char:EOLhyphen"/>ſiſtance of the Spirit, whereby they were mo<g ref="char:EOLhyphen"/>ved more agreably to their Natures, in a more ſober rational way; So that their ſtile is more even, compoſ'd, and one thing depen<g ref="char:EOLhyphen"/>ding more methodically upon another; and they are not ſo diſultorious as the Prophets, make<g ref="char:EOLhyphen"/>ing
+<pb n="49" facs="tcp:38321:31"/>frequent and ſud<g ref="char:EOLhyphen"/>den Tranſitions from one Subject to another, of a quite different Na<g ref="char:EOLhyphen"/>ture; and agreable here<g ref="char:EOLhyphen"/>to is the ordinary Aſ<g ref="char:EOLhyphen"/>ſiſtance which we now have from the Spirit of God, which being in ſuch a calme con<g ref="char:EOLhyphen"/>natural Way or Man<g ref="char:EOLhyphen"/>ner, is not ſo eaſily obſerved as the Tranſ<g ref="char:EOLhyphen"/>ports, or more violent Motions of Prophets and prophetical men of Old.</p>
+            <p>And as in Preaching, when men have, by giv<g ref="char:EOLhyphen"/>ing attendance to Read<g ref="char:EOLhyphen"/>ing
+<note place="margin">1 <hi>Tim.</hi> 4.13.</note>
+               <pb n="50" facs="tcp:38321:32"/>&amp; Study, both got a ſtock of habitual Know<g ref="char:EOLhyphen"/>ledge, and made actu<g ref="char:EOLhyphen"/>al Preparation for de<g ref="char:EOLhyphen"/>livering a Sermon, it pleaſes God ſometimes to ſuggeſt things to them that may ſerve his own wiſe and holy End, which they never thought of in their Pre<g ref="char:EOLhyphen"/>paration; as in the caſe of <hi>Auſtin,</hi> who converted <hi>Firmas</hi> a Manichee, by ſomething which he did, beſides his Intention, fall upon in his preach<g ref="char:EOLhyphen"/>ing. And the experi<g ref="char:EOLhyphen"/>ence of many can wit<g ref="char:EOLhyphen"/>neſs
+<pb n="51" facs="tcp:38321:32"/>that they have had many things brought to mind in Preaching which they had never prepared. So in Pray<g ref="char:EOLhyphen"/>er; though the Spirit of God do not ordina<g ref="char:EOLhyphen"/>rily aſſiſt either Mini<g ref="char:EOLhyphen"/>ſters or private Chri<g ref="char:EOLhyphen"/>ſtians, ſo as he did thoſe that had the Gift of Prayer in the primitive Church; but they do ordinarily conſider what Errand they are going to God on beforehand; yet, as is ſaid in ano<g ref="char:EOLhyphen"/>ther Caſe, there is ma<g ref="char:EOLhyphen"/>ny times <hi>given them in that hour what they
+<note place="margin">Mat. 10.19.</note>
+                  <pb n="52" facs="tcp:38321:33"/>ſhould ſpeak;</hi> And di<g ref="char:EOLhyphen"/>vers things ſuggeſted to them by the Spirit of God, who doth doubtleſs put into them many Good things; as the evil Spirit ſteals away Good things from us. And though I would not im<g ref="char:EOLhyphen"/>pute the difference that is in the Prayers of Chriſtians alwayes to the unequal Aſſiſtance of the Spirit; yet, on the other Hand, we ſhould not impute it wholly to the uneven working of mens Fan<g ref="char:EOLhyphen"/>cies, or the different motion of the natural Spirits.</p>
+            <pb n="53" facs="tcp:38321:33"/>
+            <p>Another Infirmity which we are ſubject to in our praiers, is, <hi>Unbelief.</hi> That this is a ſinful Infirmity, is evident from the diſ<g ref="char:EOLhyphen"/>pleaſure of God againſt the Noble-man that would not believe the plenty that ſhould be in <hi>Samaria;</hi>
+               <note place="margin">2 <hi>King.</hi> 7.19.</note> and againſt the good man <hi>Zacharia,</hi> that did not believe the things promiſed, which were to be fulfilled in their ſeaſon.
+<note place="margin">
+                  <hi>Luke.</hi> 1.20.</note> And we are ſubject to this In<g ref="char:EOLhyphen"/>firmity in three caſes eſpecially: Firſt, when we are under great and clear convictions of Sin;
+<pb n="54" facs="tcp:38321:34"/>when we have our ſin ſet in order before us, and reprefented by the Spirit of God in all the Circumſtances which may aggravate it. For firſt, the pardon of it ſeems to be no light matter, but an act of Divine Power. As <hi>Mo<g ref="char:EOLhyphen"/>ſes</hi> praies that the Pow<g ref="char:EOLhyphen"/>er of the Lord may be great therein.
+<note place="margin">Num. 14.17.</note> I know it may be interpreted of his power in bringing them into the Land of <hi>Canaan,</hi> upon the pardon of their ſin: But yet it is an act of Divine power to pardon ſin, in that
+<pb n="55" facs="tcp:38321:34"/>God doth ſo far prevail with himſelf therein, we ſhould not be able to overcome our own paſ<g ref="char:EOLhyphen"/>ſion, ſo far as to pardon ſuch as had ſo far of<g ref="char:EOLhyphen"/>fended us, and were ſo much in our power. But further; thoſe who are under ſuch convictions have ſuch an eſteem of Gods pardoning grace, that they are afraid to believe it, or pleaſe themſelves with the hopes of it, leſt their hopes ſhould fail them, and ſuch a diſappoint<g ref="char:EOLhyphen"/>ment aggravate their trouble.
+<note place="margin">Gen. 47.26.</note> Thus <hi>Jacob</hi>
+               <pb n="56" facs="tcp:38321:35"/>was backward to believe the advancement of his Son <hi>Joſeph,</hi> looking upon it as too good news to be true. So when Chriſt was riſen, they believed not for joy.
+<note place="margin">Luk. 24.41.</note> 
+               <hi>Quod nimis volumus haud facile cre<g ref="char:EOLhyphen"/>dimus &amp; tarda ſolet mag<g ref="char:EOLhyphen"/>nis rebus ineſſe fides.</hi> Whereas unhumbled ſinners that were never made ſenſible of the evil of ſin, are ſo ready to be<g ref="char:EOLhyphen"/>lieve the pardon of it, that they can hardly be<g ref="char:EOLhyphen"/>lieve that God will pu<g ref="char:EOLhyphen"/>niſh it, but think it would be rigour and ſe<g ref="char:EOLhyphen"/>verity in him ſo to do.</p>
+            <pb n="57" facs="tcp:38321:35"/>
+            <p>A ſecond caſe, is, when we are in great ſtraits and difficulties; as the Iſraelites,
+<note place="margin">Pſal. 78 19.</note> 
+               <hi>Can God fur<g ref="char:EOLhyphen"/>niſh a table in the Wilder<g ref="char:EOLhyphen"/>neſs?
+<note place="margin">Ezek. 37.11.</note> Can theſe dry bones live?</hi> Our hope is loſt, we are cut off for our part. It is made an argument of ſtrong faith in <hi>Abra<g ref="char:EOLhyphen"/>ham,</hi>
+               <note place="margin">Rom. 4.18, 19.</note> to believe in hope againſt hope.</p>
+            <p>A third caſe, is, when the anſwer of our pray<g ref="char:EOLhyphen"/>ers is deferred or deny<g ref="char:EOLhyphen"/>ed. Sometimes God ſeems to be angry a<g ref="char:EOLhyphen"/>gainſt the prayers of his people;
+<note place="margin">Pſal. 80.4.</note> and when they pray, things go worſe
+<pb n="58" facs="tcp:38321:36"/>and worſe. And it was an argument of ſtrong faith in the woman of <hi>Canaan,</hi> that ſhe did not eaſt away her confidence when firſt Chriſt ſeemed not to regaad her pray<g ref="char:EOLhyphen"/>ers: He anſwered her not a word, and when he did anſwer, did in effect deny her, telling them that <hi>He was ſent to the loſt ſheep of the houſe of Iſ<g ref="char:EOLhyphen"/>rael;</hi>
+               <note place="margin">Ma<gap reason="illegible" resp="#UOM" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> 15.22 &amp;c.</note> and when ſhe per<g ref="char:EOLhyphen"/>fiſted in her ſuit, up<g ref="char:EOLhyphen"/>braids her as one unfit for mercy; <hi>this would be to take the childrens bread and caſt it unte dogs.</hi> It is hard to hold on, when
+<pb n="59" facs="tcp:38321:36"/>God thus beats us off. Now the Spirit helps this Infirmity, <hi>Firſt,</hi> by ſtrengthening the habit of Faith in us.
+<note place="margin">Heb. 12.2<gap reason="illegible" resp="#UOM" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>
+               </note> Jeſus in<g ref="char:EOLhyphen"/>deed is the Author and Finiſher of our Faith;
+<note place="margin">Ioh. 16.14</note> yet it is by the Spirit that he doth it;
+<note place="margin">Phil. 1.19.</note> the work of Faith is fulfilled as well as begun with pow<g ref="char:EOLhyphen"/>er;
+<note place="margin">Theſ. 1.11.</note> He doth ſo fully con<g ref="char:EOLhyphen"/>vince us of the infinite Wiſdom, Power, Good<g ref="char:EOLhyphen"/>neſs and Truth or Ve<g ref="char:EOLhyphen"/>racity of God,
+<note place="margin">Eph. 1.19.</note> that we do not confidently re<g ref="char:EOLhyphen"/>ly upon his Promiſes, or Attributes,
+<note place="margin">Pſal. 60.</note> ſo far as the Scripture gices us
+<pb n="60" facs="tcp:38321:37"/>encouragement to do it. <hi>Secondly;</hi> he doth this by witneſſing to us our A<g ref="char:EOLhyphen"/>doption, ſo as we can come to God with a filial boldneſs, crying to him,
+<note place="margin">Rom 8.15.16.</note> 
+               <hi>Abba, Father.</hi> Many ſuppoſe this te<g ref="char:EOLhyphen"/>ſtimony of the Spirit to be an internal immedi<g ref="char:EOLhyphen"/>ate evidence of the Spi<g ref="char:EOLhyphen"/>rit of God to the Soul of a Believer, ſaying (as <hi>David</hi> prayes) <hi>I am thy Salvation;</hi>
+               <note place="margin">Pſal. 35.3.</note> or, as Chriſt to him that was ſick of the Palſy,
+<note place="margin">Matt. 9 2.</note> 
+               <hi>thy ſins are forgiven thee.</hi> Now to affirm there is no ſuch teſtimony of the
+<pb n="61" facs="tcp:38321:37"/>Spirit, becauſe we find no ſuch thing in our ſelves, is as the Philo<g ref="char:EOLhyphen"/>ſophers ſpeak, to mea<g ref="char:EOLhyphen"/>ſure vertue by our ſelves, and to think nothing can be done which we can<g ref="char:EOLhyphen"/>not do our ſelves. <hi>Seneca Epiſt.</hi> 71. And for what is objected againſt this, from the countenance that it gives to <hi>Enthuſi<g ref="char:EOLhyphen"/>aſmes,</hi> and pretences to ſecret inſpiration, and the tendency that it hath to make men de<g ref="char:EOLhyphen"/>ceive themſelves by Satanical ſuggeſtions and deluſions. It is an<g ref="char:EOLhyphen"/>ſwered, that though this
+<pb n="62" facs="tcp:38321:38"/>Teſtimony be not medi<g ref="char:EOLhyphen"/>ately by the Word, it is always according to the Word: ſo that men do in vain pretend to ſuch a Teſtimony, while they have not theſe charact<g ref="char:EOLhyphen"/>ers of the Children of God; which the Scrip<g ref="char:EOLhyphen"/>ture makes an Evidence of Adoption; and that the Spirit doth witneſs ſo plainly and clearly, as to ſet a man above all ſuſpition of Deluſi<g ref="char:EOLhyphen"/>on; as it did the Apo<g ref="char:EOLhyphen"/>ſtles and Prophets, when they were inſpired thereby. Though it is not denied that men
+<pb n="63" facs="tcp:38321:38"/>may verily think that the illuſions of Satan are the Teſtimony of the Spirit; as he that is awake may certainly know that he is ſo, though he that dreams may verily believe he is awake. Yet to affirm that this is the Teſtimo<g ref="char:EOLhyphen"/>ny of the Spirit, which Believers may ordinari<g ref="char:EOLhyphen"/>ly expect, would rather create Scruples in the minds of many, who not daring to ſpeak by gueſs, or hear-ſay, or boaſt of what Chriſt hath not wrought in them, cannot ſay that
+<pb n="64" facs="tcp:38321:39"/>they ever had any ſuch Teſtimony. Neither will theſe places of Scrip<g ref="char:EOLhyphen"/>ture which are alledged in this caſe prove any ſuch thing: for not only things are ſaid to wit<g ref="char:EOLhyphen"/>neſs in Scripture, which can do it only objective<g ref="char:EOLhyphen"/>ly; as the heap of ſtones caſt up by <hi>Jacob;
+<note place="margin">
+                     <hi>Gen.</hi> 31.48. <hi>Job.</hi> 16.8.</note> Job's</hi> Wrinkles and Leanneſs, our ſins: But perſons, according to Scrip<g ref="char:EOLhyphen"/>ture,
+<note place="margin">
+                  <hi>Iſai.</hi> 59.12.</note> do witneſs ob<g ref="char:EOLhyphen"/>jectively by their acti<g ref="char:EOLhyphen"/>ons, in reſpect of which thoſe mentioned by the Apoſtle, Heb. 11. are called <hi>Witneſſes.</hi>
+               <note place="margin">
+                  <hi>Heb.</hi> 12.1.</note> And
+<pb n="65" facs="tcp:38321:39"/>if it be further urged that the Apoſtle ſaith, <hi>the Spirit himſelf witneſ<g ref="char:EOLhyphen"/>ſeth, not his Graces.</hi> I anſwer;
+<note place="margin">
+                  <hi>Acts</hi> 5.32.</note> God himſelf is ſaid to witneſs, when he doth it only by the Effects or Operations of the Holy Ghoſt.
+<note place="margin">
+                  <hi>Heb.</hi> 2.4.</note> So that the Spirit himſelf may be ſaid to witneſs to our Spirits, or with our Spirits, when he acts us and leads us. Yet I will not deny that the Spirit doth more towards aſſuring us of our adoption, as a Spi<g ref="char:EOLhyphen"/>rit of Wiſdom and Re<g ref="char:EOLhyphen"/>velation,
+<note place="margin">
+                  <hi>Eph.</hi> 1.17.</note> in the know<g ref="char:EOLhyphen"/>ledge
+<pb n="66" facs="tcp:38321:40"/>knowledg of Chriſt. He may aſſiſt or enlighten our <hi>underſtandings,</hi> both to diſcern thoſe Chara<g ref="char:EOLhyphen"/>cters of Divinity which are in the Scripture, evi<g ref="char:EOLhyphen"/>dencing the Authority of it, and likewiſe to know the things that are freely given to us of God; or to diſcern or make a right Judgment of the Work of Grace in our own Souls,
+<note place="margin">1 <hi>Cor.</hi> 2.12.</note> ſome way anſwering to the gift of diſcerning of Spi<g ref="char:EOLhyphen"/>rits in the Primitive Church: And this is one effect of the Spi<g ref="char:EOLhyphen"/>rit,
+<note place="margin">1 <hi>Cor.</hi> 12.10.</note> to enlighten our
+<pb n="67" facs="tcp:38321:40"/>Underſtandings, to know the exceeding greatneſs of his Power towards thoſe that be<g ref="char:EOLhyphen"/>lieve.
+<note place="margin">
+                  <hi>Eph.</hi> 1.<gap reason="illegible" resp="#UOM" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>2</note> But what ever we determine concer<g ref="char:EOLhyphen"/>ning the manner, yet for the thing it ſelf the Scripture plainly affirms that the Spirit witneſſes that we are the Chil<g ref="char:EOLhyphen"/>dren of God.</p>
+            <p>Thirdly: the Spirit helps our Unbelief, by bringing things to our Remembrance.
+<note place="margin">
+                  <hi>Mat.</hi> 16.9.</note> For<g ref="char:EOLhyphen"/>getfulneſs is many times a cauſe of Unbe<g ref="char:EOLhyphen"/>lief;
+<note place="margin">
+                  <hi>Deut.</hi> 7.17</note> and the Remem<g ref="char:EOLhyphen"/>brance of what God hath
+<pb n="68" facs="tcp:38321:41"/>done both for our ſelves and others,
+<note place="margin">
+                  <hi>Pſal.</hi> 77.11</note> a great ſup<g ref="char:EOLhyphen"/>port to our Faith. Now Chriſt promiſed that the Spirit ſhould bring to Remembrance whatſoever he had ſaid to his Diſciples.
+<note place="margin">
+                  <hi>Pſ.</hi> 78.35.</note>
+               <note place="margin">
+                  <hi>Joh.</hi> 14.26</note> I know this might be ve<g ref="char:EOLhyphen"/>rified in his effecting or accompliſhing what Chriſt had foretold: As when the Diſciples ſaw the Zeal of Chriſt in purging the Temple,
+<note place="margin">
+                  <hi>John</hi> 2.17</note> it put them in Mind of that which was written in the Pſalms, <hi>the Zeal of thine Houſe hath eaten me up.</hi> But yet this may
+<pb n="69" facs="tcp:38321:41"/>have a further meaning: and, as he doth aſſiſt our other faculties, ſo he may the memory alſo; not only by habitual Grace, diſpoſing our hearts to the love of heavenly things,
+<note place="margin">
+                  <hi>Pſal.</hi> 119.97.</note> which makes us more frequent<g ref="char:EOLhyphen"/>ly think of them; but by ſuggeſting things to us, as occaſion requires, which is not improba<g ref="char:EOLhyphen"/>ble.
+<note place="margin">
+                  <hi>Luk.</hi> 8.12.</note> If we conſider that the Divil ſteals things out of our hearts, where<g ref="char:EOLhyphen"/>by we become forgetful hearers, and not doers of the Word; ſo that the holy Spirit, to coun<g ref="char:EOLhyphen"/>ter-work
+<pb n="70" facs="tcp:38321:42"/>him, doth of<g ref="char:EOLhyphen"/>ten keep things in the Imagination of the thoughts of our Hearts,
+<note place="margin">1 <hi>Chron.</hi> 29.18.</note> and bring back what the Devil hath ſtollen away. And further, we know by experience that it hath been with many Chriſtians, as with <hi>Hagar</hi> that ſate and wept as if there was no way but her Son muſt periſh for want of water;
+<note place="margin">
+                  <hi>Gon.</hi> 21.16.19.</note> till God ope<g ref="char:EOLhyphen"/>ned her Eyes to ſee a well of Water: So ma<g ref="char:EOLhyphen"/>ny have refuſed to be comforted, forgetting the exhortation or con<g ref="char:EOLhyphen"/>ſolation
+<pb n="71" facs="tcp:38321:42"/>which ſpeaketh to them as to Children,
+<note place="margin">
+                  <hi>Heb.</hi> 12.5.</note> till ſome Promiſe or o<g ref="char:EOLhyphen"/>ther paſſage of Scripture hath been ſuggeſted to them; from which, as from Wells of Salvation,
+<note place="margin">
+                  <hi>Iſa.</hi> 12.3.</note> they have drawn Wa<g ref="char:EOLhyphen"/>ter with Joy and Com<g ref="char:EOLhyphen"/>fort.</p>
+            <p>I might add, that the Spirit of God may make ſome extraordi<g ref="char:EOLhyphen"/>nary Impreſſion of con<g ref="char:EOLhyphen"/>fidence upon the Hearts of Chriſtians in their Praiers for ſome tem<g ref="char:EOLhyphen"/>poral Mercies; as in <hi>Luther,</hi> when he pray<g ref="char:EOLhyphen"/>ed for his Friend <hi>Myco<g ref="char:EOLhyphen"/>nius;</hi>
+               <pb n="72" facs="tcp:38321:43"/>and <hi>Edward</hi> the ſixth, when he prayed for his Tutor Sir <hi>John Cheek.</hi> But theſe are extraordinary caſes;
+<note place="margin">
+                  <hi>Matt.</hi> 21.22.</note> neither is want of Faith herein an Infirmity: That Faith of Miracles,
+<note place="margin">
+                  <hi>Mark</hi> 11.24.</note> which ſome had in Pray<g ref="char:EOLhyphen"/>er in Chriſt's time,
+<note place="margin">
+                  <hi>James</hi> 5.15.</note> and the times of the Apo<g ref="char:EOLhyphen"/>ſtles, not being now repuired of us.</p>
+            <p>Another Infirmity which we are liable to in our Praiers, is, <hi>Hy<g ref="char:EOLhyphen"/>pocriſie;</hi> when we flat<g ref="char:EOLhyphen"/>ter God with our mouth,
+<note place="margin">
+                  <hi>Pſal.</hi> 78.36.</note> and lye to him with our Tongue. And this hap<g ref="char:EOLhyphen"/>pens
+<pb n="73" facs="tcp:38321:43"/>happens in two caſes, firſt, when we pray ac<g ref="char:EOLhyphen"/>cording as we are con<g ref="char:EOLhyphen"/>vinced in our conſcien<g ref="char:EOLhyphen"/>ces we ought to pray; or, as we have been taught by Forms, or o<g ref="char:EOLhyphen"/>therwiſe, to pray: and ſo the matter of our prayers is ſuch as it ought to be; but we cannot bring our hearts freely to conſent there<g ref="char:EOLhyphen"/>to, or our corrupt luſts put in exceptions, and plead for an indulgence; as <hi>Auſtin</hi> Ingeniouſly confeſſes of himſelf:
+<note place="margin">Confeſſ. <hi>l.</hi> 8. <hi>c.</hi> 7.</note> 
+               <hi>At ego adoleſcens miſer valde, miſer in exordio ipſius ado<g ref="char:EOLhyphen"/>leſcentiae;
+<pb n="74" facs="tcp:38321:44"/>etiam petie<g ref="char:EOLhyphen"/>ram a te caſtitatem, &amp; dixeram: da mihi Caſti<g ref="char:EOLhyphen"/>tatem &amp; Continentiam, ſed noli modo. Timebam enim ne me cito exaudi<g ref="char:EOLhyphen"/>res, &amp; cito ſanares a Morbo Concupiſcentiae, quam malebam expleri quàm extingui:</hi> That is, I a wretched young man, unhappy in the very beginning of my youth, had even then deſired Chaſtity of thee, and ſaid, give me Cha<g ref="char:EOLhyphen"/>ſtity and Continency: But do not give it me yet, for I was afraid leſt thou ſhouldſt hear
+<pb n="75" facs="tcp:38321:44"/>me <hi>too ſoon,</hi> and ſhouldſt too ſoon cure me of my Diſeaſe of Incontinen<g ref="char:EOLhyphen"/>cy, which I deſire rather to have ſatisfied than extinguiſhed. Thus many take up the words of <hi>David,</hi> (as it is too ordinary for men to make uſe of expreſſions borrowed from Scrip<g ref="char:EOLhyphen"/>ture to fill up their pra<g ref="char:EOLhyphen"/>yers, without that ſpirit wherewith they were there ſpoken) <hi>Set a Watch, O Lord,
+<note place="margin">
+                     <hi>Pſ.</hi> 141.3.</note> before my Mouth; keep the door of my Lips:</hi> When they would be loth to be ta<g ref="char:EOLhyphen"/>ken at their words, and
+<pb n="76" facs="tcp:38321:45"/>be kept from ſpeaking many things, which God would keep them from ſhould he ſet a watch before them. A<g ref="char:EOLhyphen"/>gain, many pray that God would not lead them into temptation, when they would be loth to be kept from many things which are a temptation to them.</p>
+            <p>The <hi>ſecond</hi> caſe where<g ref="char:EOLhyphen"/>in this happens is, when we pray for ſuch things as we would indeed have done, but yet would not have it done by ſuch means as God uſually makes uſe of for the ef<g ref="char:EOLhyphen"/>fecting
+<pb n="77" facs="tcp:38321:45"/>of ſuch things: As when we pray that God would humble our proud Hearts, we could be content to have it done as <hi>Naaman</hi> would have had his Leproſy cured,
+<note place="margin">2 <hi>King.</hi> 5.11.</note> by ſome miracu<g ref="char:EOLhyphen"/>lous means which may put us to no trouble; but would not have it done by any humbling Providence. We would have our Hearts wea<g ref="char:EOLhyphen"/>ned from the World, but not by <hi>hedging up our way with Thornes,</hi>
+               <note place="margin">Hoſ. 2.6.</note> or croſſing or diſappoin<g ref="char:EOLhyphen"/>ting us in our worldly Deſigns. We pray with
+<pb n="78" facs="tcp:38321:46"/>
+               <hi>David</hi> that God would <hi>ſearch us and try us,</hi>
+               <note place="margin">Pſal. 139.23.</note> but would not have it done by any ſearching Af<g ref="char:EOLhyphen"/>fliction, or trying Pro<g ref="char:EOLhyphen"/>vidence. This indeed is not ſo groſs Hypo<g ref="char:EOLhyphen"/>criſy as the former; yet he that doth ſin<g ref="char:EOLhyphen"/>cerely will the End, doth alſo will the Means that are ordinarily ne<g ref="char:EOLhyphen"/>ceſſary thereto: Elſe we deale with God as with a Phyſician whom we have ſent for to cure our diſeaſe, but when he comes, begin to propoſe terms to him; that he ſhall not let us blood, nor
+<pb n="79" facs="tcp:38321:46"/>give us any thing that will make us ſick, nor confine us to our cham<g ref="char:EOLhyphen"/>ber or our bed, nor re<g ref="char:EOLhyphen"/>ſtrain us from any thing which we have a mind to. Who would bear with ſuch a Patient, or undertake his Cure on ſuch Terms? Now the Spirit helps this Infir<g ref="char:EOLhyphen"/>mity by mortifying thoſe Luſts which are ſo loth to yeeld:
+<note place="margin">
+                  <hi>Rom.</hi> 8.13.</note> To remedy which he doth, by making us Parta<g ref="char:EOLhyphen"/>kers of the Divine Na<g ref="char:EOLhyphen"/>ture,
+<note place="margin">2 <hi>Pet.</hi> 1.4.</note>
+               <note place="margin">
+                  <hi>Rom.</hi> 12.2.</note> and renewing our Minds, and ſetling in our Hearts ſuch Princi<g ref="char:EOLhyphen"/>ples
+<pb n="80" facs="tcp:38321:47"/>as are contrary to thoſe prejudices which we have taken up againſt the Waies of God, by renewing our Wills ſin<g ref="char:EOLhyphen"/>cerely to deſire the things which we are convinced in our judg<g ref="char:EOLhyphen"/>ment that we ought to pray for;
+<note place="margin">Phil. 2.13.</note> 
+               <hi>he working in us both to will and to do of his Good Pleaſure;</hi> and by quickening our Affections to heavenly things, ſo as to make us <hi>hunger and thirſt after Righteouſneſs;</hi>
+               <note place="margin">Mat. 5.6.</note> that is, ſincerely and earneſtly to deſire it.</p>
+            <p>The fourth Infirmi<g ref="char:EOLhyphen"/>ty
+<pb n="81" facs="tcp:38321:47"/>wherewith our Pray<g ref="char:EOLhyphen"/>ers are attended, is, the the Wandering of our Minds therein, or not carefully attending thereto;
+<note place="margin">
+                  <hi>Matt.</hi> 15.9.</note> drawing nigh to God with our Lips, and honouring him with our Mouths, when our Hearts are far from him:
+<note place="margin">
+                  <hi>Prov.</hi> 17.24.</note> Like the Eool's Eys in the corners of the Earth. Now our Sa<g ref="char:EOLhyphen"/>viour tells us, this <hi>is to worſhip God in vain:</hi> And Jeremiah,
+<note place="margin">Jer. 29.13.</note> 
+               <hi>that we ſhall ſeek him and find him, when we ſearch for him with all our Heart.</hi>
+            </p>
+            <p>But that I may clear
+<pb n="82" facs="tcp:38321:48"/>up this matter ſo as not to leave any unneceſſa<g ref="char:EOLhyphen"/>ry Scruples in the Mind of any, I ſhall premiſe, <hi>Firſt,</hi> that there is a Wandering or Trifling in Prayer, which is al<g ref="char:EOLhyphen"/>together voluntary; when men do not at all ſtrive againſt it, nor make any Conſcience of it: ſuch Prayer is but Lip-Labour; or, <gap reason="foreign">
+                  <desc>〈 in non-Latin alphabet 〉</desc>
+               </gap> as the Rab<g ref="char:EOLhyphen"/>bins call it, which God regards not. <hi>Secondly;</hi> there is a wandring of our minds in prayer, which is not properly voluntary, proceeding
+<pb n="83" facs="tcp:38321:48"/>partly from the Buſineſs of our Fancies, and the malicious Injections of the Devil. This the Spi<g ref="char:EOLhyphen"/>rit doth not free us from by any Aſſiſtance which we have from him: He doth not ſo ſubdue our ſpiritual Enemies, as wholly to diſcharge us from our ſpiritual War<g ref="char:EOLhyphen"/>fare; but to aſſiſt us, as we may be able to main<g ref="char:EOLhyphen"/>tain our <hi>conflict</hi> with our Spiritual Adverſaries: So that though ſuch unſtedineſs of our Minds may be matter of Hu<g ref="char:EOLhyphen"/>miliation to us, we can<g ref="char:EOLhyphen"/>not hope that the Spi<g ref="char:EOLhyphen"/>rit
+<pb n="84" facs="tcp:38321:49"/>ſhould ſo far help <hi>us,</hi> as wholly to free <hi>us</hi> from it. <hi>Thirdly;</hi> there is a Diſtraction or wandring in Prayer, proceeding from our own neglect: which though we do not, as the firſt ſort that I ſpeak of, wholly give way to, but are convin<g ref="char:EOLhyphen"/>ced that it is ſinful; yet we do not, as we ought, watch and ſtrive againſt it. This is that which many of the Ancients complain of, whoſe <hi>words</hi> I ſhall take liberty to tranſcribe, that we may ſee if we are troubled with ſuch <hi>wandrings,</hi> our
+<pb n="85" facs="tcp:38321:49"/>caſe is not ſingular: yet, what a ſence good men have had of this in<g ref="char:EOLhyphen"/>firmity, hear how <hi>Au<g ref="char:EOLhyphen"/>ſtin</hi> complains, in <hi>Pſal<g ref="char:EOLhyphen"/>mum</hi> 85, <hi>Ipſae plerunque orationes impediuntur va<g ref="char:EOLhyphen"/>nis cogitationibus, ita ut vix ſtet cor ad Deum ſu<g ref="char:EOLhyphen"/>um, &amp; vult ſe tenere ut ſtet &amp; quodammodo fugit a ſe, nec inveniet cancel<g ref="char:EOLhyphen"/>los quibus ſe includat, aut obices quoſdam quibus re<g ref="char:EOLhyphen"/>tine at avolationes ſuas &amp; vagos quoſdam motus, &amp;c.</hi> Our Prayers are diſtra<g ref="char:EOLhyphen"/>cted with <hi>vain</hi> thoughts, ſo that our hearts can<g ref="char:EOLhyphen"/>not keep cloſe to God, or
+<pb n="86" facs="tcp:38321:50"/>ſtand ſtill with him; it doth, as it were, flee from it ſelf, and there are no bounds to be ſet to the extravagant motions of it: and he ſhould have thought his own caſe ſingular if he had not found <hi>David</hi> ſaying in a certaine place,
+<note place="margin">2 Sam. 7.17.</note> 
+               <hi>Thy ſer<g ref="char:EOLhyphen"/>vant hath found his heart to pray to thee;</hi> For ſo he reads that place, <hi>Quo<g ref="char:EOLhyphen"/>niam inveni Domine cor meum ut orarem ad te:</hi> Whereon he obſerves, that <hi>David</hi> ſaith, that <hi>he found his heart,</hi> as though his heart were wont to ſlee away from
+<pb n="87" facs="tcp:38321:50"/>him, and he forced to run after this fugitive, and not being able to over<g ref="char:EOLhyphen"/>take it himſelf, to cry to the Lord, <hi>My heart hath left me.</hi> So <hi>Cyprian in Orat. Dominic.</hi> Having made many complaints on like occaſions, adds, <hi>Quomodo te audiri a Deo poſtulas, cum te ipſe non audias? Vis eſse Deum me<g ref="char:EOLhyphen"/>morem tui cum rogas, cum tu ipſe memor tui non ſis?</hi> We would have God to mind and hearken to our Prayers, when we do not regard them our ſelves. So <hi>Jerom</hi> complains how he was frequently in his
+<pb n="88" facs="tcp:38321:51"/>Prayers walking in the Galleries, or caſting up his Accounts, or drawn away by ſome filthy thoughts; and addes, <hi>Do we think Jonah pray<g ref="char:EOLhyphen"/>ed thus? Or the three Children? or Daniel a<g ref="char:EOLhyphen"/>mong the Lyons? Or the Theife upon the Croſs?</hi> So <hi>Salvian</hi> alſo; <hi>Aliud quippe ora hominum, aliud Corda agunt: Et dum verbis praeterita mala plangunt, ſenſu futur a me<g ref="char:EOLhyphen"/>ditantur;</hi> Men do one thing with their Mouths, another thing with their Hearts; with the one they bewaile their ſins
+<pb n="89" facs="tcp:38321:51"/>paſt, with the other ſtu<g ref="char:EOLhyphen"/>dy how they may ſin for the future. See more of like Nature in <hi>Bernard de interiori Domo Cap.</hi> 29.33. <hi>And Bellarmine</hi> himſelf, however he may write in heat of Contro<g ref="char:EOLhyphen"/>verſie about free-wil and the Grace of God, yet in that Book which he ſaies himſelf he had read three or four times, and purpoſed to exerciſe himſelf frequently in the reading of, having found it ſo uſeful to him (where<g ref="char:EOLhyphen"/>as he read his other Books only when he was forced thereto) I mean
+<pb n="90" facs="tcp:38321:52"/>his Book <hi>de Aſcenſione mentis in Deum,</hi> com<g ref="char:EOLhyphen"/>plains that he could not do the good which he would, but did the evil which he would not; and particularly when he would ſet himſelf to Prayer, his Mind wan<g ref="char:EOLhyphen"/>dered from him, and drew him to other things, and before he was aware his Prayer was interrupted and he was deceived by his I<g ref="char:EOLhyphen"/>magination; and a little after he adds, <hi>Quare A<g ref="char:EOLhyphen"/>nima mea ſi ſapis noli de viribus liberi arbitrii glo<g ref="char:EOLhyphen"/>riari donec pervenias ad
+<pb n="91" facs="tcp:38321:52"/>libertatem gloriae filiorum Dei:</hi> that is, <hi>Wherefore, O my ſoul, if thou be wiſe, do not boaſt of the Power of Freewill till thou come to the glorious Liberty of the Sons of God.</hi> Grad. 8. pag. 176, 177. and Grad. 16. pag. 321. ſpeaking of thoſe words of the A<g ref="char:EOLhyphen"/>poſtle,
+<note place="margin">Jam. 3.2.</note> 
+               <hi>in many things we offend all,</hi> he adds, <hi>What muſt we ſay that fall ſo far ſhort of the perfection of the Apoſtles? We pray to God, and preſently our Imagi<g ref="char:EOLhyphen"/>nations carry us away to think of other things; and we turn the back as it were on God.</hi> Now
+<pb n="92" facs="tcp:38321:53"/>thus to trifle with God in Prayer is very unſui<g ref="char:EOLhyphen"/>table to the Majeſty and Greatneſs of that God whom we ſhould ſerve with Reverence and god<g ref="char:EOLhyphen"/>ly Fear;
+<note place="margin">
+                  <hi>Heb.</hi> 12.28.</note> very unbe<g ref="char:EOLhyphen"/>coming thoſe that have or ſhould have ſuch a ſenſe of the Worth of thoſe things we pray for, and the need which we ſtand in of them; and ſuch Pray<g ref="char:EOLhyphen"/>ers are no way anſwe<g ref="char:EOLhyphen"/>rable to thoſe expreſſi<g ref="char:EOLhyphen"/>ons of Scripture, where<g ref="char:EOLhyphen"/>by the Nature of Pray<g ref="char:EOLhyphen"/>er is ſet forth;
+<note place="margin">Gen. 32.24.</note> 
+               <hi>as wreſt<g ref="char:EOLhyphen"/>ling with God; ſtriving
+<pb n="93" facs="tcp:38321:53"/>with him;
+<note place="margin">
+                     <hi>Rom.</hi> 15.30. Eſa. 26.16. Pſal. 102.1.</note> pouring out a Prayer to him; out our heart before him; crying to him;
+<note place="margin">
+                     <hi>Pſal.</hi> 62.8.</note> ſearching for him with all our heart;
+<note place="margin">
+                     <hi>Jona.</hi> 2.2. <hi>Jer.</hi> 29.13. <hi>Eſa.</hi> 64.7.</note> ſtirring up our ſelves to take hold on him; lifting up our Soul to him:</hi> So that we loſe much of the Comfort and Benefit of our Prayers, and fin<g ref="char:EOLhyphen"/>ding little Sweetneſs therein and rare returns thereto, another evil followes hereupon, and that is Tediouſneſs or Wearineſs of Spirit therein. It is with us, as with Servants that goe with their Maſters
+<pb n="94" facs="tcp:38321:54"/>when they viſit their Friends: The Maſter who is taken into ſome inner Room, and hath the delightful Converſe of his Friend, and ſome Collation or Banquet to entertain him, thinks time haſtens too faſt a<g ref="char:EOLhyphen"/>way; while the Ser<g ref="char:EOLhyphen"/>vant that ſtayes without, and hath no Company to converſe with, nor a<g ref="char:EOLhyphen"/>ny thing to refreſh him, thinks time long and te<g ref="char:EOLhyphen"/>dious. Or, it is with men in Duties of Reli<g ref="char:EOLhyphen"/>gion, as in reading Books: A School boy to perform his task toyls
+<pb n="95" facs="tcp:38321:54"/>about words, without regard to the Matter thereby expreſſed, and burdens his Memory with what he un<g ref="char:EOLhyphen"/>derſtands not: But when he comes to be a man, and capable of Under<g ref="char:EOLhyphen"/>ſtanding the Matter of the Book, and to ſuck out the Marrow and Sweetneſs of it; what was a burden to him be<g ref="char:EOLhyphen"/>fore, is now a Delight. So, while we are Chri<g ref="char:EOLhyphen"/>ſtians only by Profeſſion, we tire our ſelves with the meer out-ſide or ſhell of Duties; But when we come to be
+<pb n="96" facs="tcp:38321:55"/>Chriſtians in truth, we come to the marrow and kirnel thereof, and ſo they are ſweet and de<g ref="char:EOLhyphen"/>lightful to us. Now the Spirit helps the diſtracti<g ref="char:EOLhyphen"/>on and wandring of our minds, and conſequent<g ref="char:EOLhyphen"/>ly the tediouſneſs and wearineſs that followes thereupon, by <hi>making in<g ref="char:EOLhyphen"/>terceſſion for us with groa<g ref="char:EOLhyphen"/>nings which cannot be ut<g ref="char:EOLhyphen"/>tered;</hi> inſpiring us with thoſe earneſt and fervent <hi>deſires</hi> which our tongues (that ordinarily out-run our deſires) are not able to expreſs. And it is the firſt direction that a
+<pb n="97" facs="tcp:38321:55"/>learned Man, in his ex<g ref="char:EOLhyphen"/>erciſes of holy living, gives againſt Wandring Thoughts in Prayer, that, beſides the moral Induſtry that we ſhould add, to be ſteady in our Thoughts, we ſhould pray for the Spirit of Supplication, and uſe Prayer to be aſſiſted in Prayer:
+<note place="margin">
+                  <hi>Pſ<gap reason="illegible" resp="#UOM" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>l</hi> 86.11.</note> And as God can unite our Hearts to fear his Name, ſo he can unite them, or keep them cloſe unto himſelf in Prayer. For, not to inſiſt upon that immediate or Phyſical Influx that he may have
+<pb n="98" facs="tcp:38321:56"/>upon our Minds to de<g ref="char:EOLhyphen"/>termine them to any par<g ref="char:EOLhyphen"/>ticular Object, we may conceive how this may be done in a moral way, as a Spirit of Wiſdom and Revelation aſſiſting our Underſtandings in the knowledge of Spiri<g ref="char:EOLhyphen"/>tual things, that having a due Senſe of the Ma<g ref="char:EOLhyphen"/>jeſty and Greatneſs of God with whom we have to do, and the Neceſſi<g ref="char:EOLhyphen"/>ty and Excellency of the things we pray for, our Minds may be more in<g ref="char:EOLhyphen"/>tent and fixed on the Ob<g ref="char:EOLhyphen"/>ject and Matter of our Prayrs:
+<note place="margin">
+                  <hi>Acts.</hi> 3.5.</note> as the lame man
+<pb n="99" facs="tcp:38321:56"/>gave heed to <hi>Peter</hi> and <hi>John,</hi> expecting <hi>to receive</hi> ſomething from them.</p>
+            <p>Further; the Spirit of God doth both encou<g ref="char:EOLhyphen"/>rage our moral Induſtry, and likewiſe aſſiſt us therein. And as I be<g ref="char:EOLhyphen"/>fore explained the <hi>Greek</hi> Word, here uſed in the Text, <hi>helps</hi> or <hi>takes over against us,</hi> by giving us ſome ſweet taſts of Spi<g ref="char:EOLhyphen"/>ritual Comforts in Pray<g ref="char:EOLhyphen"/>er. As the learned man laſt mentioned, obſerves in the beginning of Re<g ref="char:EOLhyphen"/>ligion moſt frequently, and at other times irre<g ref="char:EOLhyphen"/>gularly, God complies
+<pb n="100" facs="tcp:38321:57"/>with our Infirmities, and encourages our Duty, with little overflowings of ſpiritual Joy, and ſen<g ref="char:EOLhyphen"/>ſible Pleaſure and Deli<g ref="char:EOLhyphen"/>cacies and Prayer, ſo as we ſeem to feel ſome lit<g ref="char:EOLhyphen"/>tle beam of Heaven, and great refreſhments from the Spirit of conſolation; though he addes, that it is not ſafe for us al<g ref="char:EOLhyphen"/>ways to expect them, for when we do ſo, it is apt to make us cool in our enquiries and waitings upon Chriſt when we want them. This ſeems to be that which the Church means by be<g ref="char:EOLhyphen"/>ing
+<pb n="101" facs="tcp:38321:57"/>
+               <hi>brought into the cham<g ref="char:EOLhyphen"/>bers of her beloved,</hi>
+               <note place="margin">Cant. 1.4.</note> which are places of moſt inti<g ref="char:EOLhyphen"/>mate and familiar con<g ref="char:EOLhyphen"/>verſe; and <hi>into the Ban<g ref="char:EOLhyphen"/>quetting-houſe,</hi>
+               <note place="margin">Cant. 2.4.</note> or <hi>Wine<g ref="char:EOLhyphen"/>cellar,</hi> to taſte thoſe ſpi<g ref="char:EOLhyphen"/>ritual Comforts which are as the beſt Wine,
+<note place="margin">
+                  <hi>Cant.</hi> 7.9.</note> that cauſeth the Lips of thoſe that are aſleep to ſpeak; and though we taſt not theſe Comforts alwayes in Prayer, nor frequently; though this be, as <hi>Bernard</hi> ſaith, <hi>ra<g ref="char:EOLhyphen"/>ra Hora,</hi> a time that ſel<g ref="char:EOLhyphen"/>dom happens; yet,
+<note place="margin">
+                  <hi>Pſal.</hi> 63.1.</note> as <hi>David</hi>'s Soul longed to ſee Gods Power and Glo<g ref="char:EOLhyphen"/>ry
+<pb n="102" facs="tcp:38321:58"/>as he had ſeen it in his Sanctuary; ſo this will make us long and hope to taſte the like refreſhments in prayer: as a good man when he had loſt a Son, and was very much <hi>afflicted</hi> there<g ref="char:EOLhyphen"/>by, he was obſerved on a ſudden to be very chearful; and being ask<g ref="char:EOLhyphen"/>ed what was the reaſon of ſo ſudden a change? he anſwered, that to en<g ref="char:EOLhyphen"/>joy thoſe <hi>comforts</hi> which he had found with God in prayer, he could be content to loſe a Son e<g ref="char:EOLhyphen"/>very day in the year.</p>
+            <p>The <hi>Fifth</hi> and laſt in<g ref="char:EOLhyphen"/>firmity
+<pb n="103" facs="tcp:38321:58"/>which I ſhall ſpeak of, is <hi>Sorrow</hi> or <hi>Grief,</hi> which many times makes the ſoul as a Veſ<g ref="char:EOLhyphen"/>ſel without vent. <hi>Cura livis loquuntur, ingentis ſtupent;</hi>
+               <note place="margin">
+                  <hi>Eſa.</hi> 26.16.</note> light afflictions do many times makes us pour out our prayers to God, but great afflicti<g ref="char:EOLhyphen"/>ons amaze and ſtupifie. So the <hi>Pſalmiſt</hi> was ſo troubled,
+<note place="margin">
+                  <hi>Pſal.</hi> 77.4.</note> that he could not ſpeak. Yet this is an infirmity; for we ſhould pour out our complaint before the Lord even when we are overwhelmed.
+<note place="margin">
+                  <hi>Pſa.</hi> 102.1.</note> Now, ac<g ref="char:EOLhyphen"/>cording as this ſorrow
+<pb n="104" facs="tcp:38321:59"/>or trouble is different, ſo is the means whereby the Spirit doth help or eaſe us. Sometimes our affliction may be very great, and we may be preſſed out of meaſure above ſtrength,
+<note place="margin">2 <hi>Cor.</hi> 1.8.</note> as <hi>Paul</hi> was in <hi>Aſia;</hi> and then God pities us,
+<note place="margin">
+                  <hi>Pſal.</hi> 103.13.</note> as a Fa<g ref="char:EOLhyphen"/>ther pities his Children: and, as when the Spirits are exceedingly oppreſ<g ref="char:EOLhyphen"/>ſed, we apply Cordials which may relieve them, and enable the ſick per<g ref="char:EOLhyphen"/>ſon to breath; ſo God doth by his Spirit ſhed abroad his love into our hearts, which doth re<g ref="char:EOLhyphen"/>lieve
+<pb n="105" facs="tcp:38321:59"/>and revive the Soul by a more immediate virtue,
+<note place="margin">
+                  <hi>Rom.</hi> 5.5.</note> then thoſe com<g ref="char:EOLhyphen"/>forts, which by degrees we relieve our ſelves with, by communing with our own hearts, or meditating on the Scrip<g ref="char:EOLhyphen"/>tures: as Cordials do not require time or na<g ref="char:EOLhyphen"/>tural ſtrength to concoct them, and turn them to Nouriſhment, as meat doth; but immediately diffuſeth its virtue to the ſudden cheering or re<g ref="char:EOLhyphen"/>vival of the Patient. Sometimes Chriſtians are (as I may ſay) ſul<g ref="char:EOLhyphen"/>len, like <hi>Ahab</hi> when he
+<pb n="106" facs="tcp:38321:60"/>could not have <hi>Naboth's</hi> Vinyard,
+<note place="margin">1 <hi>Kin.</hi> 21 4</note> being exceed<g ref="char:EOLhyphen"/>ingly diſcontented at ſome worldly croſs or diſappointment; as <hi>Jo<g ref="char:EOLhyphen"/>nah</hi> at the withering of his Gourd,
+<note place="margin">
+                  <hi>Jon.</hi> 4.1, 8.</note> and at Gods ſparing of <hi>Ninive;</hi> or they do too much give way to grief, and indulge themſelves therein; as the Pſalmiſt refuſed to be comforted.
+<note place="margin">
+                  <hi>Pſal.</hi> 77.2.</note> Now the way to deal with ſuch, is to awaken their <hi>Con<g ref="char:EOLhyphen"/>ſciences</hi> to a due ſenſe of the evil of ſin, that they may more earneſtly pray for the pardon of it, or more prize the pardon of
+<pb n="107" facs="tcp:38321:60"/>it; and think with them<g ref="char:EOLhyphen"/>ſelves they have great<g ref="char:EOLhyphen"/>ter matters to exerciſe their minds, then thoſe that they trouble them<g ref="char:EOLhyphen"/>ſelves ſo much with; or that God hath done ſo much for them in the pardon of their ſins, that they ſhould not take outward troubles ſo grie<g ref="char:EOLhyphen"/>viouſly at the hands of God,
+<note place="margin">
+                  <hi>Job</hi> 2.10.</note> but be content to receive ſome evil from him, having received ſo much good:
+<note place="margin">2 <hi>Sam.</hi> 19.5.</note> as when <hi>David</hi> was ſo exceed<g ref="char:EOLhyphen"/>ingly troubled at the death of <hi>Abſalom, Joab</hi> rouſed him out of his
+<pb n="108" facs="tcp:38321:61"/>dumps, by repreſenting to him his unkindneſs to his faithful Subjects, and how this act of his might be juſtly interpreted; and likewiſe the great danger which might en<g ref="char:EOLhyphen"/>ſue thereon, by his peo<g ref="char:EOLhyphen"/>ple leaving him while he did ſo diſcourage them: and this made him ſhake himſelf from his ſor<g ref="char:EOLhyphen"/>row.</p>
+            <p>I ſhall in a few words apply what I have ſaid on this Subject; and this may,</p>
+            <p>
+               <hi>Firſt,</hi> inſtruct us how exceeding impotent we are to that which is
+<pb n="109" facs="tcp:38321:61"/>good; there is nothing doth more fully con<g ref="char:EOLhyphen"/>vince us of our weakneſs, then our inability to pray. We might think, if we conſidered things only in the <hi>Idea,</hi> as they ſpeak, without conſult<g ref="char:EOLhyphen"/>ing experience, that if we could do any thing we might pray; it be<g ref="char:EOLhyphen"/>ing that which our ne<g ref="char:EOLhyphen"/>ceſſity doth ſo far en<g ref="char:EOLhyphen"/>force us to, that it might ſeem enough to us to have liberty to pray: but we ſee, that as we cannot call Chriſt Lord without the Spirit; ſo we cannot call God Father
+<pb n="110" facs="tcp:38321:62"/>without the aſſiſtance thereof; nor pray either for matter or manner, as we ought, without it. Wherefore it ſeems ſtrange to me that any wiſe conſidering man ſhould reduce the whole intereſt of the Spirit in the Prayers of Chriſti<g ref="char:EOLhyphen"/>ans, to that extraordina<g ref="char:EOLhyphen"/>ry gift in the primitive times, whereby, as they ſay, thoſe that were to pray for others, were enabled to ask thoſe things which were uſeful for them, and to teach others how to form their prayes; and ſo, that to
+<pb n="111" facs="tcp:38321:62"/>pray in the holy Ghoſt,
+<note place="margin">
+                  <hi>Jude</hi> 20.</note> enjoyned by the Apoſtle, was to keep to the pub<g ref="char:EOLhyphen"/>lick Aſſembly, and joyn with him that was then aſſiſted in his Prayers by the holy Ghoſt. And that this gift when it ceaſed, was ſupplied by ſet prepared forms for daily and conſtant uſes, provided by ſuch as had benefited under thoſe that had ſuch gifts, and remembred ſome of their Forms, or at leaſt the method and manner uſed by them; and that Li<g ref="char:EOLhyphen"/>turgies in the Church had their riſe from
+<pb n="112" facs="tcp:38321:63"/>hence. About the uſe of Liturgies in the Pri<g ref="char:EOLhyphen"/>mitive Church, or the authority of thoſe re<g ref="char:EOLhyphen"/>commended to us for their venerable antiqui<g ref="char:EOLhyphen"/>ty, it is not for me now to ſpeak any thing, but by what I have alrea<g ref="char:EOLhyphen"/>dy ſaid, it appears, that the Spirit of God is further concerned in the Prayers of Chriſtians, and I cannot ſee how the Spirit ſhould this way make interceſſion for us with Groanings which cannot be utter<g ref="char:EOLhyphen"/>ed.</p>
+            <p>
+               <hi>Secondly;</hi> This may
+<pb n="113" facs="tcp:38321:63"/>teach us when ever we go to God by Prayer,
+<note place="margin">
+                  <hi>Eph.</hi> 2.18.</note> not only to come to him by Jeſus Chriſt for ac<g ref="char:EOLhyphen"/>ceptance, but to look to the Spirit for his aſ<g ref="char:EOLhyphen"/>ſiſtance. We do not ex<g ref="char:EOLhyphen"/>pect, nor teach others to expect <hi>Enthuſiaſmes,</hi> or immediate Inſpirations ordinarily in Prayer, neither do we ſuppoſe that men ſhould attend ſo for the aſſiſtance of the Spirit, as to forbear their Prayers till they find themſelves (like ho<g ref="char:EOLhyphen"/>ly men of old who were the pen men of the Scrip<g ref="char:EOLhyphen"/>ture) moved by the holy
+<pb n="114" facs="tcp:38321:64"/>Ghoſt, much leſs do we think that all <hi>Extempore Prayer,</hi> as it is called, or <hi>conceived Prayer,</hi> is by the holy Ghoſt; neither do we ſuppoſe that thoſe that joyn with others in Prayer do not pray by the holy-Ghoſt; for he aſſiſts, as to the manner, as well as the matter of our Prayers; neither do we believe that the Spi<g ref="char:EOLhyphen"/>rit aſſiſts us to the utmoſt of his power, ſo that thoſe Prayers wherein we have his aſſiſtance ſhould be in every reſpect perfect: but he doth, as a Spirit of Grace
+<pb n="115" facs="tcp:38321:64"/>and Supplication, not only qualifie us habitu<g ref="char:EOLhyphen"/>ally for Prayer,
+<note place="margin">
+                  <hi>Zach.</hi> 12.10.</note> but aſ<g ref="char:EOLhyphen"/>ſiſt us actually in Prayer, yet in ſuch meaſure as ſeems good to him: and as of old God would not accept of Sacrifices of<g ref="char:EOLhyphen"/>fered by ſtrange fire,
+<note place="margin">
+                  <hi>Lev.</hi> 10.1.</note> ſo neither will he accept of our Spiritual Sacrifi<g ref="char:EOLhyphen"/>ces, unleſs they be offer<g ref="char:EOLhyphen"/>ed by the fire of Zeal, kindled from Heaven, and blown up by the holy Ghoſt: but as he may hear Sinners,
+<note place="margin">1 <hi>King.</hi> 21.29.</note> as he did <hi>Ahab,</hi> for ſome out<g ref="char:EOLhyphen"/>ward Mercies, which are from the exuperance or
+<pb n="116" facs="tcp:38321:65"/>overflowings of his bounty. And though I doubt not but many do vainly pretend to, or falſely boaſt of the aſſiſt<g ref="char:EOLhyphen"/>ance of the Spirit in Prayer, not underſtand<g ref="char:EOLhyphen"/>ing what they ſpeak, or whereof they affirm; yet to ſcoff at praying by the Spirit, as if it were not a thing for any to expect, or in any ſenſe to pretend to, is ſuch a piece of boldneſs and prophaneſs, and at leaſt borders ſo near upon Blaſphemy, that no ſo<g ref="char:EOLhyphen"/>ber ſerious Chriſtian will adventure upon it.</p>
+            <trailer>FINIS.</trailer>
+         </div>
+      </body>
+      <back>
+         <div type="publishers_advertisement">
+            <pb facs="tcp:38321:65"/>
+            <head>Books printed for, and to be ſold by <hi>B. Aylmer,</hi> at the three Pigeons in Cornhil.</head>
+            <p>THe Harmony of the Di<g ref="char:EOLhyphen"/>vine Attributes, in the Contrivance of Man's Re<g ref="char:EOLhyphen"/>demption. By <hi>W. Bates,</hi> D.D. in <hi>Quarto.</hi>
+            </p>
+            <p>The Duty and Reward of Bounty to the Poor: in a Sermon (inlarged) Preached at the <hi>Spittle</hi> on Wedneſday in Eaſter-week, <hi>Anno</hi> 1671. Price 1 <abbr>
+                  <hi>s.</hi>
+               </abbr> 6 <abbr>
+                  <hi>d.</hi>
+               </abbr> bound.</p>
+            <p>The Beſt-Match: or, the Soul's Eſpouſal to Chriſt: Opened and improved, by <hi>Edw. Pearſe.</hi> Pr. 2 <abbr>
+                  <hi>s.</hi>
+               </abbr> bouud.</p>
+            <p>A Beam of Divine Glory: or, The unchangeableneſs of
+<pb facs="tcp:38321:66"/>God, aſſerted, opened, vin<g ref="char:EOLhyphen"/>dicated and improved, By <hi>Edw. Pearſe;</hi> being the laſt that will be printed of the ſaid Author's.</p>
+            <p>A Perſwaſive to Peace and Unity among Chriſtians, not<g ref="char:EOLhyphen"/>withſtanding their different Aprehenſions in leſſer things. Pr. 1 <abbr>
+                  <hi>s.</hi>
+               </abbr> bound.</p>
+            <p>The Advice of a Father: or, Counſel to a Child, direct<g ref="char:EOLhyphen"/>ing him how to demean him<g ref="char:EOLhyphen"/>ſelf in the moſt important paſſages of his Life.</p>
+            <p>
+               <hi>Quinti Curtii Rufi de Re<g ref="char:EOLhyphen"/>bus geſtis Alexandri Magni.</hi> Pr. bound 1 <abbr>
+                  <hi>s.</hi>
+               </abbr> 6 <abbr>
+                  <hi>d.</hi>
+               </abbr>
+            </p>
+            <pb facs="tcp:38321:66"/>
+         </div>
+      </back>
+   </text>
+</TEI>
